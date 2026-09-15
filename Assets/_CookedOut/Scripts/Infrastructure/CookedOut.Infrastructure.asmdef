@@ -1,0 +1,14 @@
+{
+  "name": "CookedOut.Infrastructure",
+  "rootNamespace": "CookedOut.Infrastructure",
+  "references": [
+    "CookedOut.Domain"
+  ],
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}
+

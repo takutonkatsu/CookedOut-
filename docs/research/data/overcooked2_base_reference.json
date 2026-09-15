@@ -1,0 +1,1677 @@
+{
+  "scope": "Overcooked! 2 base campaign (Tutorial + 36 story + 8 Kevin)",
+  "retrieved": "2026-09-12",
+  "platform": "PC/Steam score thresholds",
+  "sources": {
+    "scores": "https://steamcommunity.com/sharedfiles/filedetails/?id=1832823209",
+    "layouts": "https://overcooked.fandom.com/api.php"
+  },
+  "record_count": 45,
+  "records": [
+    {
+      "stage": "Tutorial",
+      "url": "https://overcooked.fandom.com/wiki/Tutorial",
+      "theme": "|unlock=0 Stars",
+      "recipes": "Salad",
+      "time": "1:30",
+      "obstacles": "None",
+      "dynamic": "No",
+      "plates": "No",
+      "overview": "",
+      "scores": {
+        "1 Player": [
+          20,
+          40,
+          60,
+          600
+        ],
+        "2 Players": [
+          20,
+          40,
+          60,
+          900
+        ],
+        "3 Players": [
+          20,
+          40,
+          60,
+          900
+        ],
+        "4 Players": [
+          20,
+          40,
+          60,
+          1250
+        ]
+      }
+    },
+    {
+      "stage": "1-1",
+      "url": "https://overcooked.fandom.com/wiki/1-1_(Overcooked!_2)",
+      "theme": "Sushi City",
+      "recipes": "Sashimi",
+      "time": "2:30",
+      "obstacles": "None",
+      "dynamic": "No",
+      "plates": "No",
+      "overview": "There are two ingredient boxes; fish is middle left, shrimp is middle right. You are provided four plates for the level, which all start on the center islands of the level. Four chopping stations are located at the bottom of the level; two in the left corner and two in the right corner.",
+      "scores": {
+        "1 Player": [
+          20,
+          60,
+          240,
+          1300
+        ],
+        "2 Players": [
+          20,
+          160,
+          300,
+          2650
+        ],
+        "3 Players": [
+          20,
+          200,
+          400,
+          3100
+        ],
+        "4 Players": [
+          20,
+          200,
+          400,
+          3300
+        ]
+      }
+    },
+    {
+      "stage": "1-2",
+      "url": "https://overcooked.fandom.com/wiki/1-2_(Overcooked!_2)",
+      "theme": "Sushi City",
+      "recipes": "Sushi",
+      "time": "2:30",
+      "obstacles": "Pedestrians",
+      "dynamic": "No",
+      "plates": "No",
+      "overview": "There are three ingredient boxes in the middle of the kitchen. You are provided four plates for the level; two plates start on the top middle counter and two more plates on the bottom counter. Three chopping stations are located at the top left of the kitchen. The serving window and plate return are on the top right of the kitchen. The stove is located on the bottom right and the bin is in the bottom middle.",
+      "scores": {
+        "1 Player": [
+          60,
+          180,
+          300,
+          1350
+        ],
+        "2 Players": [
+          60,
+          220,
+          420,
+          2200
+        ],
+        "3 Players": [
+          60,
+          300,
+          460,
+          2500
+        ],
+        "4 Players": [
+          60,
+          300,
+          460,
+          2800
+        ]
+      }
+    },
+    {
+      "stage": "1-3",
+      "url": "https://overcooked.fandom.com/wiki/1-3_(Overcooked!_2)",
+      "theme": "Sushi City",
+      "recipes": "Sashimi, Sushi",
+      "time": "3:00",
+      "obstacles": "None",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "There are four ingredient boxes; shrimp, nori, and rice are middle left, cucumber is middle right. You are provided four plates for the level; two plates start on the island to the left and another two on the right counter. Three chopping stations are located at the top left of the kitchen. The serving window is at the bottom left and the plate return and sink are on the bottom right of the kitchen. The stove is located on the top right and the bin is in the bottom middle.",
+      "scores": {
+        "1 Player": [
+          40,
+          120,
+          160,
+          890
+        ],
+        "2 Players": [
+          40,
+          160,
+          320,
+          1250
+        ],
+        "3 Players": [
+          40,
+          200,
+          340,
+          1600
+        ],
+        "4 Players": [
+          40,
+          200,
+          340,
+          1900
+        ]
+      }
+    },
+    {
+      "stage": "1-4",
+      "url": "https://overcooked.fandom.com/wiki/1-4_(Overcooked!_2)",
+      "theme": "Sushi City",
+      "recipes": "Sushi",
+      "time": "3:30",
+      "obstacles": "Conveyor Belts, Narrow Corridor",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "There are four ingredient boxes for shrimp, nori, cucumber, and rice on top left side. You are provided with four plates which all start out in the center of the kitchen. Two chopping stations are located at the top right of the kitchen. The service window and plate return are at the bottom middle. The sink and bin are on the middle left of the kitchen. There are three stoves located on the middle right and bottom right of the kitchen. There are two conveyor belts going horizontally across the top and bottom of the kitchen.",
+      "scores": {
+        "1 Player": [
+          80,
+          180,
+          340,
+          950
+        ],
+        "2 Players": [
+          120,
+          260,
+          400,
+          1100
+        ],
+        "3 Players": [
+          140,
+          280,
+          460,
+          1500
+        ],
+        "4 Players": [
+          140,
+          280,
+          460,
+          1600
+        ]
+      }
+    },
+    {
+      "stage": "1-5",
+      "url": "https://overcooked.fandom.com/wiki/1-5_(Overcooked!_2)",
+      "theme": "Buffet Balloons",
+      "recipes": "Pasta",
+      "time": "3:00",
+      "obstacles": "Shifting platforms, moving tables",
+      "dynamic": "Yes",
+      "plates": "Yes",
+      "overview": "The kitchen is split between two hot air balloons in this level, a large one on the left and a small one on the right. The chefs can switch between the balloons in the middle of the level. The large balloon is divided at the start of the level, with the two burners with pans at the top and two burners with pots at the bottom. On the left is the bin and to the right of that are three chopping stations. The chopping stations slide up and down throughout the level. The two plates for the level start out to their right. On the small balloon there is the sink at the top. On the right are the two ingredient boxes and the plate return. At the bottom is the service window.",
+      "scores": {
+        "1 Player": [
+          40,
+          100,
+          200,
+          700
+        ],
+        "2 Players": [
+          80,
+          180,
+          260,
+          900
+        ],
+        "3 Players": [
+          100,
+          240,
+          360,
+          1100
+        ],
+        "4 Players": [
+          100,
+          240,
+          360,
+          1200
+        ]
+      }
+    },
+    {
+      "stage": "1-6",
+      "url": "https://overcooked.fandom.com/wiki/1-6_(Overcooked!_2)",
+      "theme": "Buffet Balloons, Sushi City",
+      "recipes": "Salad, Sushi",
+      "time": "4:10",
+      "obstacles": "Fire, Conveyor Belts",
+      "dynamic": "Yes",
+      "plates": "Yes",
+      "overview": "There are two kitchens in this level, a balloon and a building. After 2 minutes and 20 seconds, the balloon will crash into the sushi building for the second part. The balloon has everything in a square. On the top is the service window and the plate return. On the left are two chopping stations and a plate. On the bottom are two plates, the sink, and the bin. On the right are the three ingredient boxes. While in the balloon, fire will be randomly shot from the flame in the middle of the balloon to a random location within the balloon. The projectiles turn into flames upon hitting the ground, and they will slowly dissipate. The Fire Extinguisher can speed this up. The flames cannot be moved through.\nOnce the balloon starts to fall out of the sky, the items on the left and right side of the balloon will slide around. After the crash, the layout of the balloon is in the center of the building. The differences are along the edges of the kitchen.\nAt the top middle is the service window, two more plates and another bin to the left.\nOn the top left is a conveyor belt with fish.\nOn the bottom left is a conveyor belt with rice.\nAt the bottom middle are two new chopping stations. In the bottom right is another trash, a fire extinguisher, and a sink.\nOn the right are two stoves with pots.\nAnd at the top right is a conveyor belt with nori.",
+      "scores": {
+        "1 Player": [
+          200,
+          240,
+          340,
+          1050
+        ],
+        "2 Players": [
+          260,
+          320,
+          440,
+          1500
+        ],
+        "3 Players": [
+          300,
+          380,
+          520,
+          2100
+        ],
+        "4 Players": [
+          300,
+          380,
+          520,
+          2000
+        ]
+      }
+    },
+    {
+      "stage": "2-1",
+      "url": "https://overcooked.fandom.com/wiki/2-1_(Overcooked!_2)",
+      "theme": "Ravenous Rapids",
+      "recipes": "Fast Food",
+      "time": "2:20",
+      "obstacles": "Moving platforms",
+      "dynamic": "No",
+      "plates": "No",
+      "overview": "There are two floating rafts in this level. The top raft has two chopping stations at its top. The bottom raft has much more. On the right are two plates and the bin. On the left are two more plates and the fire extinguisher. Along the bottom, from left to right, are a deep fryer, the chicken ingredient box, the service window, the plate return, the potato ingredient box, and a second fryer.",
+      "scores": {
+        "1 Player": [
+          120,
+          160,
+          220,
+          520
+        ],
+        "2 Players": [
+          160,
+          240,
+          320,
+          820
+        ],
+        "3 Players": [
+          180,
+          240,
+          340,
+          1000
+        ],
+        "4 Players": [
+          180,
+          240,
+          340,
+          1500
+        ]
+      }
+    },
+    {
+      "stage": "2-2",
+      "url": "https://overcooked.fandom.com/wiki/2-2_(Overcooked!_2)",
+      "theme": "Buffet Balloons",
+      "recipes": "Pasta",
+      "time": "3:30",
+      "obstacles": "Moving platforms",
+      "dynamic": "No",
+      "plates": "No",
+      "overview": "There are three hot air balloons in this level, a large one on the right and two small ones to the left in a line. The leftmost balloon has the Service Counter on the far left. On the bottom of the balloon is the beef and noodles ingredient boxes. The middle balloon has the shrimp and fish ingredient boxes. On the top are two Chopping Boards. This balloon moves up and down the level, making it difficult to get to and from the other balloons. The right balloon is configured in a square. The top has a stove with a pot and a plate. The right has two stoves with pans and a plate. The bottom has a trash can, a plate, and a stove with a pot. The left side has a Fire Extinguisher, a stove with a pan, and the Plate Return.",
+      "scores": {
+        "1 Player": [
+          180,
+          240,
+          340,
+          750
+        ],
+        "2 Players": [
+          260,
+          360,
+          480,
+          1050
+        ],
+        "3 Players": [
+          340,
+          460,
+          620,
+          1250
+        ],
+        "4 Players": [
+          340,
+          460,
+          620,
+          1250
+        ]
+      }
+    },
+    {
+      "stage": "2-3",
+      "url": "https://overcooked.fandom.com/wiki/2-3_(Overcooked!_2)",
+      "theme": "Buffet Balloons",
+      "recipes": "Pasta",
+      "time": "3:30",
+      "obstacles": "Moving platforms",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is split up between three hot-air balloons, one per side and another one below them with 4 Countertops floating back and forth. The left side has the Sink, the Plate Return, the Serving Counter, a Chopping Board and all three Ingredient Boxes (left to right: Pasta, Mushrooms, Beef), while the right side also has a chopping board, but also a Trash Bin, four Plates, two Pans and two Pots, and the Fire Extinguisher.",
+      "scores": {
+        "1 Player": [
+          120,
+          180,
+          260,
+          700
+        ],
+        "2 Players": [
+          220,
+          300,
+          400,
+          700
+        ],
+        "3 Players": [
+          260,
+          360,
+          480,
+          700
+        ],
+        "4 Players": [
+          260,
+          360,
+          480,
+          700
+        ]
+      }
+    },
+    {
+      "stage": "2-4",
+      "url": "https://overcooked.fandom.com/wiki/2-4_(Overcooked!_2)",
+      "theme": "Moreish Mines",
+      "recipes": "Burrito",
+      "time": "4:00",
+      "obstacles": "Bottleneck",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen has two sides, separated by a bridge. There are four total Plates in this level, three of which start out on the left and the other one on the right. The left side has the Service Counter, the Plate Return, two Pots and the Ingredient Boxes for tortillas and mushrooms. The right side has two Chopping Boards, the Sink, two Pans, the Bin, the Fire Extinguisher and the Ingredient Boxes for beef and rice.",
+      "scores": {
+        "1 Player": [
+          300,
+          420,
+          560,
+          1250
+        ],
+        "2 Players": [
+          360,
+          480,
+          660,
+          1700
+        ],
+        "3 Players": [
+          500,
+          700,
+          940,
+          2500
+        ],
+        "4 Players": [
+          500,
+          700,
+          940,
+          2600
+        ]
+      }
+    },
+    {
+      "stage": "2-5",
+      "url": "https://overcooked.fandom.com/wiki/2-5_(Overcooked!_2)",
+      "theme": "Moreish Mines",
+      "recipes": "Burrito",
+      "time": "3:30",
+      "obstacles": "Moving tables, bottleneck",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The level is split between left and right, with a rail connecting them along the middle. There are four Ingredient Boxes for tortillas, beef, chicken and rice set along the counter that moves left and right at the height this middle rail, but they do so by hiding or showing a set of boxes outside the playable area, so the center always remains free of obstacles. There are four total Plates in this level, two of which start out on the bottom left and the other two on the top right. The left side has two Pots and the Sink on the top half, and three Cutting Boards and the Fire Extinguisher on the bottom half. The right side has the Service Counter and Plate Return on the top half, and the Bin and four Pans on the bottom half.",
+      "scores": {
+        "1 Player": [
+          220,
+          300,
+          400,
+          800
+        ],
+        "2 Players": [
+          240,
+          340,
+          460,
+          1000
+        ],
+        "3 Players": [
+          320,
+          440,
+          600,
+          1400
+        ],
+        "4 Players": [
+          320,
+          440,
+          600,
+          1400
+        ]
+      }
+    },
+    {
+      "stage": "2-6",
+      "url": "https://overcooked.fandom.com/wiki/2-6_(Overcooked!_2)",
+      "theme": "Moreish Mines",
+      "recipes": "Burger",
+      "time": "4:00",
+      "obstacles": "Moving tables, bottleneck, isolated chefs",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "At the center of the kitchen there is a counter that starts out vertical and rotates counter-clockwise every 30 seconds. It has three Pans in total, one at the center and the other two at each end of the counter. It also starts out with the 4 Plates of this level. On the top left of the kitchen are three Ingredient Boxes for buns, beef and cheese. In the middle left there is the Sink. On the top right are two Chopping Boards, the Bin and the Fire Extinguisher. On the bottom left are the Service Counter and the Plate Return.",
+      "scores": {
+        "1 Player": [
+          260,
+          340,
+          460,
+          1180
+        ],
+        "2 Players": [
+          400,
+          540,
+          740,
+          1600
+        ],
+        "3 Players": [
+          480,
+          660,
+          880,
+          1900
+        ],
+        "4 Players": [
+          480,
+          660,
+          880,
+          2200
+        ]
+      }
+    },
+    {
+      "stage": "3-1",
+      "url": "https://overcooked.fandom.com/wiki/3-1_(Overcooked!_2)",
+      "theme": "Conjurer's Kitchen",
+      "recipes": "Pizza",
+      "time": "3:30",
+      "obstacles": "Moving tables, isolated chefs",
+      "dynamic": "Yes",
+      "plates": "Yes",
+      "overview": "The kitchen's top part is accessed by a set of stairs and holds the Service Counter, the Plate Return and the Bin. On the bottom left are the Fire Extinguisher, the Ingredient Box for tomatoes and the three Plates for this level. On the bottom right are two Ovens, the Sink and the ingredient boxes for the dough and cheese. Between the bottom left and right halves, there is a counter with three Chopping Boards that will move to the left or right every approximately 30 seconds, changing which chef has access to the stairs, ovens and sink.",
+      "scores": {
+        "1 Player": [
+          240,
+          340,
+          460,
+          830
+        ],
+        "2 Players": [
+          480,
+          600,
+          820,
+          1500
+        ],
+        "3 Players": [
+          560,
+          780,
+          1040,
+          1650
+        ],
+        "4 Players": [
+          560,
+          780,
+          1040,
+          1900
+        ]
+      }
+    },
+    {
+      "stage": "3-2",
+      "url": "https://overcooked.fandom.com/wiki/3-2_(Overcooked!_2)",
+      "theme": "Conjurer's Kitchen",
+      "recipes": "Burger",
+      "time": "4:00",
+      "obstacles": "Moving staircases, portals",
+      "dynamic": "No",
+      "plates": "No",
+      "overview": "The kitchen is divided into three segments: left, middle and right. Middle is lower than the sides and connects with either side with a set of stairs. At start of the level middle and left are connected with stairs, but these change every 35 seconds. Left and right are always connected with portals. Left has the Ingredient Boxes for buns and lettuce and three Chopping Boards. Middle has the ingredient boxes for cheese and beef, as well as four Pans next to each corner that would connect to the stairs. Right has the Service Counter, the Plate Return, the Bin and the Fire Extinguisher. There are also portals on top that are connected (food can be thrown though).",
+      "scores": {
+        "1 Player": [
+          160,
+          240,
+          320,
+          750
+        ],
+        "2 Players": [
+          300,
+          360,
+          500,
+          950
+        ],
+        "3 Players": [
+          340,
+          480,
+          640,
+          1250
+        ],
+        "4 Players": [
+          340,
+          480,
+          640,
+          1350
+        ]
+      }
+    },
+    {
+      "stage": "3-3",
+      "url": "https://overcooked.fandom.com/wiki/3-3_(Overcooked!_2)",
+      "theme": "Conjurer's Kitchen",
+      "recipes": "Pizza",
+      "time": "4:00",
+      "obstacles": "Moving tables, isolated chefs",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen can be divided in four quadrants, with Ingredient Boxes for dough, pepperoni, tomato and cheese that will move around blocking off areas. For the first 10 seconds of the level all quadrants are connected, but then the boxes will section off the kitchen vertically and will alternate with a horizontal split every 30~40 seconds. Top left has the Bin and a Chopping Board. Top right has another chopping board, the Fire Extinguisher and the Service Counter. Bottom right has an Oven and the Plate Return. Bottom left has another oven and the Sink. The three Plates for this level start out along the horizontal middle counters.",
+      "scores": {
+        "1 Player": [
+          200,
+          280,
+          380,
+          660
+        ],
+        "2 Players": [
+          380,
+          480,
+          640,
+          1450
+        ],
+        "3 Players": [
+          440,
+          600,
+          800,
+          1650
+        ],
+        "4 Players": [
+          440,
+          600,
+          800,
+          1750
+        ]
+      }
+    },
+    {
+      "stage": "3-4",
+      "url": "https://overcooked.fandom.com/wiki/3-4_(Overcooked!_2)",
+      "theme": "Conjurer's Kitchen",
+      "recipes": "Burger",
+      "time": "4:00",
+      "obstacles": "Portals",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is split between three sections: a middle raised area, and left and right sides. The middle connects to either side through portals, and has the Service Counter and the Plate Return. The left and right sides have an uncrossable rift between them but ingredients can be tossed across. Left side has two Chopping Boards, three Pans and the Fire Extinguisher. Right side has the Sink, the Bin and the Ingredient Boxes for (from left to right) tomatoes, cheese, beef, buns and lettuce. The four Plates for this level start out two on the left side and the other two on the right.",
+      "scores": {
+        "1 Player": [
+          160,
+          240,
+          300,
+          600
+        ],
+        "2 Players": [
+          260,
+          320,
+          440,
+          950
+        ],
+        "3 Players": [
+          280,
+          400,
+          540,
+          1100
+        ],
+        "4 Players": [
+          280,
+          400,
+          540,
+          1400
+        ]
+      }
+    },
+    {
+      "stage": "3-5",
+      "url": "https://overcooked.fandom.com/wiki/3-5_(Overcooked!_2)",
+      "theme": "Ravenous Rapids",
+      "recipes": "Fast Food",
+      "time": "4:00",
+      "obstacles": "Moving platforms, 2 plates",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "There are two floating rafts in this level. The left raft has the Service Counter, the Plate Return, two Deep Fryers and the Ingredient Boxes for potatoes and chicken. The right raft has two Chopping Boards, the Sink, the Bin, the Fire Extinguisher and starts out with the two Plates for this level. The two rafts will occasionally move around and at times they will be too far apart to walk between them.",
+      "scores": {
+        "1 Player": [
+          140,
+          180,
+          240,
+          830
+        ],
+        "2 Players": [
+          240,
+          300,
+          420,
+          850
+        ],
+        "3 Players": [
+          240,
+          320,
+          440,
+          950
+        ],
+        "4 Players": [
+          240,
+          320,
+          440,
+          950
+        ]
+      }
+    },
+    {
+      "stage": "3-6",
+      "url": "https://overcooked.fandom.com/wiki/3-6_(Overcooked!_2)",
+      "theme": "Moreish Mines, Ravenous Rapids",
+      "recipes": "Burrito",
+      "time": "4:10",
+      "obstacles": "Moving platforms, isolated chefs",
+      "dynamic": "Yes, changes after 2:20",
+      "plates": "No",
+      "overview": "The kitchen is divided into three platforms: one at the top, another at the bottom, and a third one swinging across the middle and connecting the other two. The top platform has two Chopping Boards, two Pans, the Fire Extinguisher and the Service Counter. The bottom platform has two Pots, the Bin and the Plate Return. The middle platform has all four Ingredient Boxes, with the rice and chicken on the top right corner, and the beef and chicken on the bottom left corner. After 2 minutes and 20 seconds, the platforms will start floating along the river as rafts. The middle raft will briefly disappear during this transition. The three rafts will move during this last part, but will remain mostly connected.",
+      "scores": {
+        "1 Player": [
+          240,
+          300,
+          400,
+          1050
+        ],
+        "2 Players": [
+          320,
+          420,
+          560,
+          1600
+        ],
+        "3 Players": [
+          400,
+          540,
+          740,
+          1800
+        ],
+        "4 Players": [
+          400,
+          540,
+          740,
+          2100
+        ]
+      }
+    },
+    {
+      "stage": "4-1",
+      "url": "https://overcooked.fandom.com/wiki/4-1_(Overcooked!_2)",
+      "theme": "Sushi City",
+      "recipes": "Sashimi, Sushi",
+      "time": "3:00",
+      "obstacles": "Conveyor belt, cars",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen has a left and right sides with a road that has cars crossing it when the traffic light turns green that can run over the chefs. The left side has two Pots, two Chopping Boards, the Sink, the cucumber Ingredient Box and a Conveyor Belt that will spawn rice and nori. The right side has the Service Counter, the Plate Return, the Fire Extinguisher, the Bin and another conveyor belt that spawns prawns and fish.",
+      "scores": {
+        "1 Player": [
+          140,
+          180,
+          240,
+          620
+        ],
+        "2 Players": [
+          260,
+          340,
+          460,
+          1000
+        ],
+        "3 Players": [
+          380,
+          480,
+          640,
+          1100
+        ],
+        "4 Players": [
+          380,
+          480,
+          640,
+          1340
+        ]
+      }
+    },
+    {
+      "stage": "4-2",
+      "url": "https://overcooked.fandom.com/wiki/4-2_(Overcooked!_2)",
+      "theme": "Ravenous Rapids",
+      "recipes": "Salad, Fast Food",
+      "time": "4:00",
+      "obstacles": "Moving platforms, conveyor belts, isolated chefs",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The chefs are split between two rafts that will alternate between being connected vertically and horizontally. They each have an L-shaped Conveyor Belt that ends up in a Bin and when the rafts are close enough, leaving plates on these is the only way to move them across rafts. The top raft has two Deep Fryers, the Sink, a Cutting Board and the Ingredient Boxes for tomatoes and lettuces. The bottom raft has the Service Counter, the Plate Return, the Fire Extinguisher, two chopping boards and the boxes for potatoes and chicken.",
+      "scores": {
+        "1 Player": [
+          240,
+          300,
+          400,
+          790
+        ],
+        "2 Players": [
+          240,
+          300,
+          420,
+          1080
+        ],
+        "3 Players": [
+          280,
+          360,
+          480,
+          900
+        ],
+        "4 Players": [
+          280,
+          360,
+          480,
+          1150
+        ]
+      }
+    },
+    {
+      "stage": "4-3",
+      "url": "https://overcooked.fandom.com/wiki/4-3_(Overcooked!_2)",
+      "theme": "Moreish Mines",
+      "recipes": "Burger",
+      "time": "4:00",
+      "obstacles": "Conveyor belt, bottleneck",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is split between a left and right side connected with S-shaped Conveyor Belts that will swap direction every 30 seconds. Left side has the Service Counter, the Sink and the Ingredient Boxes for the buns, beef, cheese and lettuce. It's also where the three Plates start at. The right side has two Pans, two Chopping Boards, the Bin, the Plate Return and the Fire Extinguisher.",
+      "scores": {
+        "1 Player": [
+          180,
+          220,
+          300,
+          600
+        ],
+        "2 Players": [
+          200,
+          240,
+          340,
+          950
+        ],
+        "3 Players": [
+          300,
+          380,
+          520,
+          1100
+        ],
+        "4 Players": [
+          300,
+          380,
+          520,
+          1300
+        ]
+      }
+    },
+    {
+      "stage": "4-4",
+      "url": "https://overcooked.fandom.com/wiki/4-4_(Overcooked!_2)",
+      "theme": "Moreish Mines",
+      "recipes": "Fast Food",
+      "time": "3:30",
+      "obstacles": "Conveyor belt, bottleneck, wind, moving tables",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is split between left and right sides, connected with two bridges at the top and bottom. At the same height as these bridges there will be gusts of wind that will change directions every ~13 seconds. If the upper wind blows left, the lower one will blow right, and viceversa. There are also some short counters going up and down at a similar tempo as the winds on the far right and left sides of the kitchen. The left side has a Chopping Board, the Sink, a Deep Fryer and the Ingredient Box for the chicken. The right side has another chopping board, fryer and box with potatoes, as well as the Service Counter, the Plate Return and the Fire Extinguisher.",
+      "scores": {
+        "1 Player": [
+          220,
+          280,
+          380,
+          800
+        ],
+        "2 Players": [
+          300,
+          380,
+          520,
+          980
+        ],
+        "3 Players": [
+          300,
+          380,
+          520,
+          1100
+        ],
+        "4 Players": [
+          300,
+          380,
+          520,
+          1180
+        ]
+      }
+    },
+    {
+      "stage": "4-5",
+      "url": "https://overcooked.fandom.com/wiki/4-5_(Overcooked!_2)",
+      "theme": "Sushi City",
+      "recipes": "Sashimi, Sushi",
+      "time": "4:00",
+      "obstacles": "Conveyor belts, isolated chefs, switches, two plates",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is split between a top and a bottom half. There is a Conveyor Belt going all around the kitchen and connecting the halves from the outside, and another set of conveyor belts at the middle in the shape of two overlapping Ls that end up in Bins. In the middle, where the conveyor belts overlap, the direction can be adjusted with Buttons on each side that will redirect items on the belt towards their respective half. The top half has two Pots, the Service Counter, the Plate Return and the Ingredient Boxes for nori and rice. The top half has two Cutting Boards, the Sink, the Fire Extinguisher and the ingredient boxes for the fish and cucumber. There are two Plates in this level, each one starting on either half of the kitchen.",
+      "scores": {
+        "1 Player": [
+          200,
+          260,
+          360,
+          650
+        ],
+        "2 Players": [
+          280,
+          360,
+          480,
+          950
+        ],
+        "3 Players": [
+          320,
+          420,
+          560,
+          950
+        ],
+        "4 Players": [
+          320,
+          420,
+          560,
+          950
+        ]
+      }
+    },
+    {
+      "stage": "4-6",
+      "url": "https://overcooked.fandom.com/wiki/4-6_(Overcooked!_2)",
+      "theme": "Moreish Mines",
+      "recipes": "Burrito",
+      "time": "3:30",
+      "obstacles": "Conveyor belts, bottlenecks, moving tables, fire",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is split between a right and a left side connected with walkable Conveyor Belts at the top and bottom. The top conveyor belt goes towards the right, and the bottom one towards the left. Along the rightmost and leftmost walls there are two sets of counters that will alternate what they contain every 30 seconds. The left one will start out with Ingredient Boxes for rice, chicken and mushrooms; and the right one with two Chopping Boards and the ingredient boxes with tortillas and beef. The left side has the Sink, the Bin and two Pans. The right side has two Pots, the Service Counter and the Plate Return.",
+      "scores": {
+        "1 Player": [
+          180,
+          240,
+          320,
+          800
+        ],
+        "2 Players": [
+          380,
+          420,
+          580,
+          1050
+        ],
+        "3 Players": [
+          500,
+          640,
+          860,
+          1250
+        ],
+        "4 Players": [
+          500,
+          640,
+          860,
+          1450
+        ]
+      }
+    },
+    {
+      "stage": "5-1",
+      "url": "https://overcooked.fandom.com/wiki/5-1_(Overcooked!_2)",
+      "theme": "Sushi City",
+      "recipes": "Sushi, Burger",
+      "time": "4:00",
+      "obstacles": "Control switch, isolated chefs",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is split between a left and right side, and a movable middle platform that bridges the river between them. This middle platform has a vertical line of countertops with a joystick in the middle to move it and it's where the three Plates will initially be. The left side has two Pots, two Pans, the Bin and the Ingredient Boxes for the buns, nori and rice. The right side has the Service Counter, the Plate Return, the Sink, two Cutting Boards, the Fire Extinguisher and the ingredient boxes for cucumber, beef and fish.",
+      "scores": {
+        "1 Player": [
+          240,
+          300,
+          420,
+          700
+        ],
+        "2 Players": [
+          280,
+          360,
+          480,
+          1000
+        ],
+        "3 Players": [
+          300,
+          380,
+          520,
+          1250
+        ],
+        "4 Players": [
+          300,
+          380,
+          520,
+          1400
+        ]
+      }
+    },
+    {
+      "stage": "5-2",
+      "url": "https://overcooked.fandom.com/wiki/5-2_(Overcooked!_2)",
+      "theme": "Buffet Balloons",
+      "recipes": "Burger",
+      "time": "4:00",
+      "obstacles": "Fire",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "This level has two working areas connected through a corridor around them. The Service Counter is to the leftmost part of the kitchen. The left working station has one Pan, a Cutting Board, the Bin and the Ingredient Boxes for cheese and tomatoes. It has exits towards the outer ring corridor at the top, left and bottom. It shares the Sink and the buns ingredient box with the right area. The right working station has two pans, a cutting board, the ingredient boxes for lettuce and beef, the Plate Return and the Fire Extinguisher.",
+      "scores": {
+        "1 Player": [
+          180,
+          220,
+          300,
+          580
+        ],
+        "2 Players": [
+          240,
+          300,
+          420,
+          1100
+        ],
+        "3 Players": [
+          200,
+          240,
+          340,
+          1250
+        ],
+        "4 Players": [
+          200,
+          240,
+          340,
+          1550
+        ]
+      }
+    },
+    {
+      "stage": "5-3",
+      "url": "https://overcooked.fandom.com/wiki/5-3_(Overcooked!_2)",
+      "theme": "Moreish Mines",
+      "recipes": "Burritos",
+      "time": "4:00",
+      "obstacles": "Control switch",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The chefs will be maneuvering a moveable platform to interact with the utensils arranged in a circle surrounding the pit where the platform is located. There are three Pots at the bottom left and three Pans at the bottom right. The left wall has the Ingredient Boxes for rice, beef, chicken, mushrooms and tortillas. There is the Sink at the top left and three Cutting Boards at the top right. The right wall has the Service Counter, the Plate Return, the Bin and the Fire Extinguisher. The four Plates for this level start at a corner each.",
+      "scores": {
+        "1 Player": [
+          120,
+          140,
+          200,
+          680
+        ],
+        "2 Players": [
+          280,
+          360,
+          480,
+          1050
+        ],
+        "3 Players": [
+          300,
+          360,
+          500,
+          1050
+        ],
+        "4 Players": [
+          300,
+          360,
+          500,
+          1050
+        ]
+      }
+    },
+    {
+      "stage": "5-4",
+      "url": "https://overcooked.fandom.com/wiki/5-4_(Overcooked!_2)",
+      "theme": "Conjurer's Kitchen",
+      "recipes": "Pancake",
+      "time": "4:00",
+      "obstacles": "Moving stairs, portals",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is divided into three sections: top right, top left and bottom. The bottom section starts off connected to the upper parts through two sets of stairs that disappear and reappear again every approximately 35 seconds. When the stairs disappear, portals will appear instead. Going through the ones at the top sections will teleport chefs into the bottom section. There is an additional portal floating left and right over the top sections, and going through the portal at the bottom section will spawn the chefs wherever the moving portal is currently at, even into the pit as it moves across sections. The top left section has the Sink, the Plate Return, the Ingredient Box for chocolate and initially has the two Plates for this level. The top right section has the flour, two Chopping Boards and the Service Counter. The bottom section has two Mixers, two Pans, the ingredient box for eggs, the Bin and the Fire Extinguisher.",
+      "scores": {
+        "1 Player": [
+          160,
+          200,
+          280,
+          1150
+        ],
+        "2 Players": [
+          260,
+          340,
+          460,
+          1450
+        ],
+        "3 Players": [
+          240,
+          300,
+          400,
+          1450
+        ],
+        "4 Players": [
+          240,
+          300,
+          400,
+          1700
+        ]
+      }
+    },
+    {
+      "stage": "5-5",
+      "url": "https://overcooked.fandom.com/wiki/5-5_(Overcooked!_2)",
+      "theme": "Conjurer's Kitchen",
+      "recipes": "Pasta",
+      "time": "3:30",
+      "obstacles": "Control switch, isolated chefs",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is divided into four corners with one long counter splitting the level vertically across the middle into left and right sides. There are also two small moveable platforms that can be controlled by the chefs on the opposite side, so for example the switches in the top left and bottom left corners will move the platform on the right half. The top left corner has the Service Counter and three Pans. The top right corner has three Pots and starts out with the three Plates for this level. Between top right and bottom right there is the Sink. The bottom right corner has the Plate Return, the Bin and the Ingredient Boxes for mushrooms and pasta. The bottom left corner has another bin, the Fire Extinguisher and the boxes for beef and tomatoes. Finally, between the top left and bottom left there are two Chopping Boards.",
+      "scores": {
+        "1 Player": [
+          160,
+          200,
+          280,
+          650
+        ],
+        "2 Players": [
+          280,
+          360,
+          480,
+          1000
+        ],
+        "3 Players": [
+          280,
+          360,
+          480,
+          1050
+        ],
+        "4 Players": [
+          280,
+          360,
+          480,
+          1300
+        ]
+      }
+    },
+    {
+      "stage": "5-6",
+      "url": "https://overcooked.fandom.com/wiki/5-6_(Overcooked!_2)",
+      "theme": "Gourmet Galaxy, ???, Conjurer's Kitchen",
+      "recipes": "Pasta",
+      "time": "5:10",
+      "obstacles": "Moving platforms, portals, moving tables",
+      "dynamic": "Yes",
+      "plates": "Yes",
+      "overview": "===Phase 1=== At the start the kitchen will be split into three distinct sections: top right, bottom right, and left sides. The chefs can only walk between islands when small pieces of land flow and connect them. The left side has two Pots and the Ingredient Boxes for mushrooms, tomatoes, beef and pasta. The bottom right side has two Pans, two Chopping Boards, the Sink and it's where the three Plates for the level are initially located. The top right side has the Service Counter, the Plate Return, the Bin and the Fire Extinguisher. ===Phase 2=== At 3:48 remaining time the area will transition to phase two. The river separating the islands will disappear, leaving in its place solid land with a vortex animation/voidhole and gentle sway of the camera that may cause nausea. In the beginning all the kitchen utensils will start out at the same place as they were in phase 1, but then counters will split and slide across the kitchen throughout this phase, finally ending up in the place they are situated in phase 3. ===Phase 3=== At 1:58 remaining time the area will change once more to a final phase. The kitchen will be largely split between left and right side. The left side has the same counter with the two burners (that originally held the pots, if those haven't been moved) and all the ingredient boxes. Additionally, it will have the service counter, the return plate and the boxes for fish and prawns. Dropping from a small ledge will get the chefs to the right area, which holds the rest of the kitchen utensils, as well as an additional Pot and Burner. Players can use the portal to go back to the left side.",
+      "scores": {
+        "1 Player": [
+          280,
+          360,
+          480,
+          950
+        ],
+        "2 Players": [
+          300,
+          380,
+          520,
+          1540
+        ],
+        "3 Players": [
+          320,
+          400,
+          500,
+          1600
+        ],
+        "4 Players": [
+          320,
+          400,
+          500,
+          1700
+        ]
+      }
+    },
+    {
+      "stage": "6-1",
+      "url": "https://overcooked.fandom.com/wiki/6-1_(Overcooked!_2)",
+      "theme": "Buffet Balloons",
+      "recipes": "Cake",
+      "time": "4:00",
+      "obstacles": "Fire, conveyor belts",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen has three working areas (top, middle, bottom) connected by conveyor belts to the left, and a corridor to the right. At the top there are two Ovens, the Plate Return, a Bin and the Ingredient Boxes for flour and chocolate. The bottom has the two Mixers, the Sink and the boxes for eggs, carrots and honey. The middle has the two Chopping Boards, the Fire Extinguisher and initally has the three Plates for this level. The high walls prevent players from tossing ingredients towards the middle. Instead, they can be delivered through the conveyor belts or by bringing them through the corridor. Finally, the Service Counter is the right of the kitchen.",
+      "scores": {
+        "1 Player": [
+          360,
+          460,
+          620,
+          820
+        ],
+        "2 Players": [
+          420,
+          520,
+          700,
+          1250
+        ],
+        "3 Players": [
+          580,
+          720,
+          980,
+          1600
+        ],
+        "4 Players": [
+          580,
+          720,
+          980,
+          1450
+        ]
+      }
+    },
+    {
+      "stage": "6-2",
+      "url": "https://overcooked.fandom.com/wiki/6-2_(Overcooked!_2)",
+      "theme": "Gourmet Galaxy",
+      "recipes": "Pancake, Cake",
+      "time": "4:00",
+      "obstacles": "Sinking platforms",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The level is segmented into three islands: top, right and left. Chefs can only move between them when a platform rises above the water level. They remain on the surface for about 13 seconds and then sink for about 5. Their shapes will change following a specific order, ranging from big chunks of land to narrow winding paths. All chefs will start at the left island, which has two Mixers, two Pans, two Cutting Boards, the Sink and the Fire Extinguisher. The right island has the Service Counter, the Bin and the Ingredient Boxes for eggs and chocolate. The top island has two Ovens, the Plate Return and the ingredient boxes for flour, honey and carrots.",
+      "scores": {
+        "1 Player": [
+          160,
+          200,
+          280,
+          600
+        ],
+        "2 Players": [
+          180,
+          220,
+          300,
+          650
+        ],
+        "3 Players": [
+          200,
+          240,
+          340,
+          720
+        ],
+        "4 Players": [
+          200,
+          240,
+          340,
+          800
+        ]
+      }
+    },
+    {
+      "stage": "6-3",
+      "url": "https://overcooked.fandom.com/wiki/6-3_(Overcooked!_2)",
+      "theme": "Gourmet Galaxy",
+      "recipes": "Pancake, Cake",
+      "time": "4:00",
+      "obstacles": "Conveyor belts, switches, bottleneck",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "This level features conveyor belts which will carry ingredients before dropping them at Bins. The ingredients will be out of reach unless their corresponding button is pressed, which will redirect them so they can be picked up by players. The left button redirects flour and chocolate, and the right button redirects eggs and honey. Two Cutting Boards are at the bottom left; two Mixers and the Fire Extinguisher are at the top left; two Ovens and the Sink are at the top right; and two Pans, the Service Counter and the Plate Return are on the bottom right.",
+      "scores": {
+        "1 Player": [
+          280,
+          360,
+          520,
+          850
+        ],
+        "2 Players": [
+          380,
+          480,
+          640,
+          1200
+        ],
+        "3 Players": [
+          540,
+          680,
+          920,
+          1200
+        ],
+        "4 Players": [
+          540,
+          680,
+          920,
+          1450
+        ]
+      }
+    },
+    {
+      "stage": "6-4",
+      "url": "https://overcooked.fandom.com/wiki/6-4_(Overcooked!_2)",
+      "theme": "Buffet Balloons",
+      "recipes": "Pizza, Burger",
+      "time": "4:00",
+      "obstacles": "Control switch",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is a floating balloon platform with two control sticks that move two 2x2 Ingredient Box platforms around it. The layout it mostly symmetrical, with the kitchen utensils at the center, and the Sink to the right. The left ingredient box platform contains cheese, buns, beef and dough, and the right one contains lettuce, tomatoes, pepperoni and chicken.",
+      "scores": {
+        "1 Player": [
+          140,
+          180,
+          260,
+          600
+        ],
+        "2 Players": [
+          260,
+          320,
+          440,
+          900
+        ],
+        "3 Players": [
+          340,
+          420,
+          580,
+          950
+        ],
+        "4 Players": [
+          340,
+          420,
+          580,
+          1150
+        ]
+      }
+    },
+    {
+      "stage": "6-5",
+      "url": "https://overcooked.fandom.com/wiki/6-5_(Overcooked!_2)",
+      "theme": "Gourmet Galaxy",
+      "recipes": "Burger",
+      "time": "4:00",
+      "obstacles": "Conveyor belts, sinking platforms",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "Chefs will be split between the top half or the bottom half of the kitchen. Ingredients and dishes can be passed between them through a circular conveyor belt at the middle. Each half has their own right and left sections, which will alternately sink every 45 seconds, signaled with a rumble. Each left side has two Pans and the Ingredient Boxes for buns, cheese, beef and lettuce. Each right side has two Chopping Boards and a Bin. The top half has access to the Service Counter and the Plate Return, and the bottom half has the Sink, the Fire Extinguisher and starts out with the three Plates for this level.",
+      "scores": {
+        "1 Player": [
+          180,
+          220,
+          300,
+          480
+        ],
+        "2 Players": [
+          240,
+          300,
+          400,
+          750
+        ],
+        "3 Players": [
+          240,
+          300,
+          420,
+          750
+        ],
+        "4 Players": [
+          240,
+          300,
+          420,
+          940
+        ]
+      }
+    },
+    {
+      "stage": "6-6",
+      "url": "https://overcooked.fandom.com/wiki/6-6_(Overcooked!_2)",
+      "theme": "Gourmet Galaxy",
+      "recipes": "Salad, Sashimi, Sushi, Pasta, Burrito, Pizza, Cake, Pancake",
+      "time": "15:00 for 2+ players, 25:00 solo",
+      "obstacles": "Moving tables, buttons for opening doors, conveyor belts, portals",
+      "dynamic": "Yes",
+      "plates": "Yes",
+      "overview": "The kitchen will change as you deliver dishes. You will prepare two of each type of dish that have been served throughout the game, roughly in the order that they have appeared. Their order is set to always be the same. At the start the Service Counter and the Plate Return will be closed by a gate at the bottom right. This gate can be opened with a button from either side of it. The first dishes will require chopping, cooking on pots and pans, and deepfrying. After finishing the burgers the layout will change to one with portals and conveyor belts. The dishes on this second part will involve chopping, cooking in pots and pans, mixing and baking.",
+      "scores": {
+        "1 Player": [
+          500,
+          1000,
+          1500,
+          1900
+        ],
+        "2 Players": [
+          500,
+          1000,
+          1500,
+          2100
+        ],
+        "3 Players": [
+          500,
+          1000,
+          1500,
+          2100
+        ],
+        "4 Players": [
+          500,
+          1000,
+          1500,
+          2100
+        ]
+      }
+    },
+    {
+      "stage": "Kevin 1",
+      "url": "https://overcooked.fandom.com/wiki/Kevin_1",
+      "theme": "Kevin Level",
+      "recipes": "Steamed Food",
+      "time": "4:00",
+      "obstacles": "Isolated chefs",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen has two sides, with the players split up between them.\nThe middle Countertops have the plates and a bin above them.\nThe right side has 2 Ingredient Boxes (Flour and Fish) while the left side has 1 ingredient box (Beef).\nThe left side has two Mixers and the right side has two Steamers. Both sides have three sections. *The top has the Plate stuff (Sink on the left side, Plate Return and Service Counter on the right). *The middle has stairs leading down to it, and two cutting boards per side, each opposite of the mixers/steamers. *The bottom has the ingredient boxes.",
+      "scores": {
+        "1 Player": [
+          300,
+          380,
+          520,
+          920
+        ],
+        "2 Players": [
+          480,
+          600,
+          820,
+          1460
+        ],
+        "3 Players": [
+          540,
+          660,
+          900,
+          1650
+        ],
+        "4 Players": [
+          540,
+          660,
+          900,
+          1920
+        ]
+      }
+    },
+    {
+      "stage": "Kevin 2",
+      "url": "https://overcooked.fandom.com/wiki/Kevin_2",
+      "theme": "Kevin Level",
+      "recipes": "Steamed Food",
+      "time": "4:00",
+      "obstacles": "Moving tables",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen consists of two Countertops in the middle with four 3 by 3 squares around them that get pushed first clockwise and then counterclockwise starting at 3:00 remaining time every ~23 seconds. Each square has a single plate. *The top left square has two steamers, the fire extinguisher and the sink. *The top right square has the Plate Return, another steamer and Ingredient Boxes for Prawn and Flour. *The bottom left square has the bin and ingredient boxes for Fish, Carrots and Beef. *The bottom right square has three Cutting Boards and two mixers.",
+      "scores": {
+        "1 Player": [
+          260,
+          320,
+          420,
+          950
+        ],
+        "2 Players": [
+          380,
+          480,
+          640,
+          1300
+        ],
+        "3 Players": [
+          420,
+          540,
+          720,
+          1400
+        ],
+        "4 Players": [
+          420,
+          540,
+          720,
+          1250
+        ]
+      }
+    },
+    {
+      "stage": "Kevin 3",
+      "url": "https://overcooked.fandom.com/wiki/Kevin_3",
+      "theme": "Kevin Level",
+      "recipes": "Steamed Food",
+      "time": "4:00",
+      "obstacles": "Elevator",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is split between a lower level, a top high level and a right high level which are all connected by an elevator that moves up and down. On the lower level are two Mixers, the Service Counter, the Plate Return, the Fire Extinguisher and the Ingredient Boxes for beef, carrots and fish. The right high level has two Chopping Boards and shares countertop space with the top high level. The top high level has three Steamers, the Sink, the Bin and the ingredient boxes for flour and prawns.",
+      "scores": {
+        "1 Player": [
+          200,
+          240,
+          340,
+          690
+        ],
+        "2 Players": [
+          240,
+          300,
+          400,
+          800
+        ],
+        "3 Players": [
+          380,
+          480,
+          640,
+          900
+        ],
+        "4 Players": [
+          380,
+          480,
+          640,
+          1060
+        ]
+      }
+    },
+    {
+      "stage": "Kevin 4",
+      "url": "https://overcooked.fandom.com/wiki/Kevin_4",
+      "theme": "Kevin Level",
+      "recipes": "Steamed Food",
+      "time": "4:00",
+      "obstacles": "Fire",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is a rectangle that has a large fireplace in the center that shoots fire everywhere. On the top is the Plate Return, three Chopping Boards and the Serving Counter. On the left, there is a Mixer, with two Steamers, separated by countertops one down and one right of each ingredient making machine. The Bin is on the lowest tile. On the right is the exact same, but mirrored and with the trash bin replaced by an area with a Sink at the end, and a Fire Extinguisher at the top of the area. On the bottom is all five Ingredient Boxes (Fish, Flour, Carrots, Prawn and Beef) with plates in between them.",
+      "scores": {
+        "1 Player": [
+          220,
+          280,
+          380,
+          800
+        ],
+        "2 Players": [
+          340,
+          420,
+          580,
+          960
+        ],
+        "3 Players": [
+          400,
+          500,
+          680,
+          1250
+        ],
+        "4 Players": [
+          400,
+          500,
+          680,
+          1600
+        ]
+      }
+    },
+    {
+      "stage": "Kevin 5",
+      "url": "https://overcooked.fandom.com/wiki/Kevin_5",
+      "theme": "Kevin Level",
+      "recipes": "Steamed Food",
+      "time": "4:00",
+      "obstacles": "Moving tables, wind, cars",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "This kitchen consists of two 2x5 working areas, one on the upper half of the screen and the other one on the lower half. There are cars randomly driving between them. The working station on the upper half starts on the right, the one on the lower half starts on the left. Wind occasionally blows from where the rectangles are to make them swap sides. Careful though, this wind can also blow players! *The lower area has two Steamers on its right, and three Chopping Boards on its left, with the Flour Ingredient Box above them. *The upper area has two Mixers on its left, and all the other ingredient boxes on the right. There are two tiles of objects in each corner of the playable area. If it's plates or the fire extinguisher: they come with a countertop. *Top left: Two plates *Top right: Sink *Bottom left: Plate Return and Trash Bin *Bottom right: Plate and Fire Extinguisher The Serving Counter is middle-right.",
+      "scores": {
+        "1 Player": [
+          180,
+          240,
+          320,
+          620
+        ],
+        "2 Players": [
+          260,
+          320,
+          440,
+          1000
+        ],
+        "3 Players": [
+          320,
+          420,
+          560,
+          1100
+        ],
+        "4 Players": [
+          320,
+          420,
+          560,
+          1100
+        ]
+      }
+    },
+    {
+      "stage": "Kevin 6",
+      "url": "https://overcooked.fandom.com/wiki/Kevin_6",
+      "theme": "Kevin Level",
+      "recipes": "Steamed Food",
+      "time": "4:00",
+      "obstacles": "Conveyor belts, two plates",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is divided into four quadrants that have a part open so you can go into them. There are conveyor belts connnecting everything and they lead you clockwise or toward the center. *Top-left quadrant: Plate, two Steamers and the Sink, entrance towards the center, on the left. *Top-right quadrant: Three Chopping Boards, Plate and Fire Extinguisher, entranced centered at the top and facing towards the outer ring. *Bottom-left quadrant: Ingredient Boxes for Beef, Fish, Prawn and Flour, entrance towards the center, on the right. *Bottom-right quadrant: Two Mixers, Plate Return, Trash Bin and Carrot Ingredient Box, entrance facing right. The Service Counter is on the very left.",
+      "scores": {
+        "1 Player": [
+          220,
+          280,
+          380,
+          650
+        ],
+        "2 Players": [
+          280,
+          360,
+          480,
+          900
+        ],
+        "3 Players": [
+          380,
+          480,
+          640,
+          1000
+        ],
+        "4 Players": [
+          380,
+          480,
+          640,
+          1000
+        ]
+      }
+    },
+    {
+      "stage": "Kevin 7",
+      "url": "https://overcooked.fandom.com/wiki/Kevin_7",
+      "theme": "Kevin Level",
+      "recipes": "Steamed Food",
+      "time": "4:30",
+      "obstacles": "Moving tables, bottleneck, isolated chefs",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is split into top and bottom halves, with a moving platform on each side. The left moving platform contains both Mixers and the Carrot Ingredient Box, while the right one contains both Steamers and the Fish Ingredient Box. The top half contains the Plate Return, the Trash Bin, Ingredient Boxes for Beef and Flour, a plate and two Chopping Boards. Meanwhile, the bottom half has the Sink, two Chopping Boards, two Plates and the Ingredient Box for Prawn. The halves have one Countertop in the dead center connecting them.",
+      "scores": {
+        "1 Player": [
+          240,
+          300,
+          420,
+          800
+        ],
+        "2 Players": [
+          300,
+          360,
+          500,
+          1280
+        ],
+        "3 Players": [
+          320,
+          400,
+          540,
+          1280
+        ],
+        "4 Players": [
+          320,
+          400,
+          540,
+          1280
+        ]
+      }
+    },
+    {
+      "stage": "Kevin 8",
+      "url": "https://overcooked.fandom.com/wiki/Kevin_8",
+      "theme": "Kevin Level",
+      "recipes": "Steamed Food",
+      "time": "4:00",
+      "obstacles": "Conveyor belts, isolated chefs",
+      "dynamic": "No",
+      "plates": "Yes",
+      "overview": "The kitchen is split apart by a fast tile-type Conveyor Belt that gets supplied by 5 Ingredient Dispensers (from left to right, they dispense Beef, Prawn, Flour, Carrots and Fish), then conjoins from 5 to 1, and then splits from a rotating part of the conveyor belt into 3, each leading to Trash Bins. Each side has a Chopping Board and two plates, one of the plates is surrounded by Mixers/Steamers. \nThe right side has the mixers, the left side the steamers. The left side also has the Fire Extinguisher and the Sink in the top left, and the right side has the Serving Counter and the Plate Return.",
+      "scores": {
+        "1 Player": [
+          180,
+          220,
+          300,
+          700
+        ],
+        "2 Players": [
+          180,
+          240,
+          320,
+          800
+        ],
+        "3 Players": [
+          240,
+          300,
+          420,
+          1040
+        ],
+        "4 Players": [
+          240,
+          300,
+          420,
+          1000
+        ]
+      }
+    }
+  ]
+}

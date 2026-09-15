@@ -1,0 +1,21 @@
+{
+  "name": "CookedOut.Tests.EditMode",
+  "rootNamespace": "CookedOut.Tests.EditMode",
+  "references": [
+    "CookedOut.Domain",
+    "CookedOut.Application",
+    "CookedOut.Infrastructure"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

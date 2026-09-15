@@ -1,0 +1,17 @@
+{
+  "name": "CookedOut.Editor",
+  "rootNamespace": "CookedOut.Editor",
+  "references": [
+    "CookedOut.Presentation",
+    "CookedOut.Domain"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

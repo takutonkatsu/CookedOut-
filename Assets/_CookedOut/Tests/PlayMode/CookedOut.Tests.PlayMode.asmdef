@@ -1,0 +1,19 @@
+{
+  "name": "CookedOut.Tests.PlayMode",
+  "rootNamespace": "CookedOut.Tests.PlayMode",
+  "references": [
+    "CookedOut.Domain",
+    "CookedOut.Application",
+    "CookedOut.Infrastructure",
+    "CookedOut.Presentation"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

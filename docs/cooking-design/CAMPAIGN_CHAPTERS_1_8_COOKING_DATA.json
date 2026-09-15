@@ -1,0 +1,2011 @@
+{
+  "updated": "2026-09-14",
+  "scope": "出張営業本編第1〜8章。注文候補の登場面数。S・通常は除外。実装データではない。",
+  "statusNote": "第1章は後続章で前提とした最新修正表（元資料に比較案表記あり）。第2〜8章は各承認済み最新版。集計による追加承認なし。",
+  "sources": [
+    "docs/cooking-design/BASIC_TWO_AND_ADVANCED_RECIPES_PROPOSAL.md",
+    "docs/cooking-design/CHAPTER_2_BASIC_TWO_ORDER_PLAN.md",
+    "docs/cooking-design/CHAPTER_3_FOCUSED_MENUS_PROPOSAL.md",
+    "docs/cooking-design/CHAPTERS_2_4_SHARED_NOODLE_REVISION.md",
+    "docs/cooking-design/CHAPTER_5_FRIES_REPLACEMENT_PROPOSAL.md",
+    "docs/cooking-design/CHAPTER_6_OKONOMI_VARIANTS_REVISION.md",
+    "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md"
+  ],
+  "stages": [
+    {
+      "id": "1-1",
+      "chapter": 1,
+      "recipes": [
+        "グリーンサラダ"
+      ],
+      "ingredients": [
+        "葉野菜"
+      ],
+      "count": 1,
+      "source": "docs/cooking-design/BASIC_TWO_AND_ADVANCED_RECIPES_PROPOSAL.md",
+      "newRecipes": [
+        "グリーンサラダ"
+      ]
+    },
+    {
+      "id": "1-2",
+      "chapter": 1,
+      "recipes": [
+        "グリーンサラダ",
+        "トマトサラダ"
+      ],
+      "ingredients": [
+        "葉野菜",
+        "トマト"
+      ],
+      "count": 2,
+      "source": "docs/cooking-design/BASIC_TWO_AND_ADVANCED_RECIPES_PROPOSAL.md",
+      "newRecipes": [
+        "トマトサラダ"
+      ]
+    },
+    {
+      "id": "1-3",
+      "chapter": 1,
+      "recipes": [
+        "プレーンオムレツ",
+        "チーズオムレツ"
+      ],
+      "ingredients": [
+        "卵",
+        "チーズ"
+      ],
+      "count": 2,
+      "source": "docs/cooking-design/BASIC_TWO_AND_ADVANCED_RECIPES_PROPOSAL.md",
+      "newRecipes": [
+        "プレーンオムレツ",
+        "チーズオムレツ"
+      ]
+    },
+    {
+      "id": "1-4",
+      "chapter": 1,
+      "recipes": [
+        "野菜焼きそば"
+      ],
+      "ingredients": [
+        "中華麺",
+        "葉野菜",
+        "玉ねぎ"
+      ],
+      "count": 3,
+      "source": "docs/cooking-design/BASIC_TWO_AND_ADVANCED_RECIPES_PROPOSAL.md",
+      "newRecipes": [
+        "野菜焼きそば"
+      ]
+    },
+    {
+      "id": "1-5",
+      "chapter": 1,
+      "recipes": [
+        "オニオンスープ",
+        "トマトサラダ"
+      ],
+      "ingredients": [
+        "玉ねぎ",
+        "葉野菜",
+        "トマト"
+      ],
+      "count": 3,
+      "source": "docs/cooking-design/BASIC_TWO_AND_ADVANCED_RECIPES_PROPOSAL.md",
+      "newRecipes": [
+        "オニオンスープ"
+      ]
+    },
+    {
+      "id": "1-6",
+      "chapter": 1,
+      "recipes": [
+        "肉焼きそば",
+        "肉じゃがいもスープ"
+      ],
+      "ingredients": [
+        "肉",
+        "中華麺",
+        "葉野菜",
+        "じゃがいも"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/BASIC_TWO_AND_ADVANCED_RECIPES_PROPOSAL.md",
+      "newRecipes": [
+        "肉焼きそば",
+        "肉じゃがいもスープ"
+      ]
+    },
+    {
+      "id": "2-1",
+      "chapter": 2,
+      "recipes": [
+        "魚のにぎり"
+      ],
+      "ingredients": [
+        "米",
+        "魚"
+      ],
+      "count": 2,
+      "source": "docs/cooking-design/CHAPTER_2_BASIC_TWO_ORDER_PLAN.md",
+      "newRecipes": [
+        "魚のにぎり"
+      ]
+    },
+    {
+      "id": "2-2",
+      "chapter": 2,
+      "recipes": [
+        "焼肉おにぎり",
+        "チーズ焼肉おにぎり"
+      ],
+      "ingredients": [
+        "米",
+        "肉",
+        "チーズ"
+      ],
+      "count": 3,
+      "source": "docs/cooking-design/CHAPTER_2_BASIC_TWO_ORDER_PLAN.md",
+      "newRecipes": [
+        "焼肉おにぎり",
+        "チーズ焼肉おにぎり"
+      ]
+    },
+    {
+      "id": "2-3",
+      "chapter": 2,
+      "recipes": [
+        "魚のにぎり",
+        "えびのにぎり"
+      ],
+      "ingredients": [
+        "米",
+        "魚",
+        "えび"
+      ],
+      "count": 3,
+      "source": "docs/cooking-design/CHAPTER_2_BASIC_TWO_ORDER_PLAN.md",
+      "newRecipes": [
+        "えびのにぎり"
+      ]
+    },
+    {
+      "id": "2-4",
+      "chapter": 2,
+      "recipes": [
+        "チーズホットサンド",
+        "チーズトマトホットサンド"
+      ],
+      "ingredients": [
+        "パンセット",
+        "チーズ",
+        "トマト"
+      ],
+      "count": 3,
+      "source": "docs/cooking-design/CHAPTER_2_BASIC_TWO_ORDER_PLAN.md",
+      "newRecipes": [
+        "チーズホットサンド",
+        "チーズトマトホットサンド"
+      ]
+    },
+    {
+      "id": "2-5",
+      "chapter": 2,
+      "recipes": [
+        "じゃがいもカレー"
+      ],
+      "ingredients": [
+        "米",
+        "じゃがいも",
+        "玉ねぎ",
+        "スパイス"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_2_BASIC_TWO_ORDER_PLAN.md",
+      "newRecipes": [
+        "じゃがいもカレー"
+      ]
+    },
+    {
+      "id": "2-6",
+      "chapter": 2,
+      "recipes": [
+        "肉カレー",
+        "焼肉おにぎり"
+      ],
+      "ingredients": [
+        "米",
+        "肉",
+        "玉ねぎ",
+        "スパイス"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_2_BASIC_TWO_ORDER_PLAN.md",
+      "newRecipes": [
+        "肉カレー"
+      ]
+    },
+    {
+      "id": "3-1",
+      "chapter": 3,
+      "recipes": [
+        "プレーンハンバーグ"
+      ],
+      "ingredients": [
+        "肉"
+      ],
+      "count": 1,
+      "source": "docs/cooking-design/CHAPTER_3_FOCUSED_MENUS_PROPOSAL.md",
+      "newRecipes": [
+        "プレーンハンバーグ"
+      ]
+    },
+    {
+      "id": "3-2",
+      "chapter": 3,
+      "recipes": [
+        "プレーンハンバーグ",
+        "チーズハンバーグ",
+        "トマトポタージュ"
+      ],
+      "ingredients": [
+        "肉",
+        "チーズ",
+        "トマト"
+      ],
+      "count": 3,
+      "source": "docs/cooking-design/CHAPTER_3_FOCUSED_MENUS_PROPOSAL.md",
+      "newRecipes": [
+        "チーズハンバーグ",
+        "トマトポタージュ"
+      ]
+    },
+    {
+      "id": "3-3",
+      "chapter": 3,
+      "recipes": [
+        "プレーンハンバーグ",
+        "チーズハンバーグ",
+        "肉そぼろおにぎり"
+      ],
+      "ingredients": [
+        "肉",
+        "チーズ",
+        "米"
+      ],
+      "count": 3,
+      "source": "docs/cooking-design/CHAPTER_3_FOCUSED_MENUS_PROPOSAL.md",
+      "newRecipes": [
+        "肉そぼろおにぎり"
+      ]
+    },
+    {
+      "id": "3-4",
+      "chapter": 3,
+      "recipes": [
+        "トマトパスタ"
+      ],
+      "ingredients": [
+        "パスタ麺",
+        "トマト"
+      ],
+      "count": 2,
+      "source": "docs/cooking-design/CHAPTER_3_FOCUSED_MENUS_PROPOSAL.md",
+      "newRecipes": [
+        "トマトパスタ"
+      ]
+    },
+    {
+      "id": "3-5",
+      "chapter": 3,
+      "recipes": [
+        "トマトパスタ",
+        "えび野菜パスタ"
+      ],
+      "ingredients": [
+        "パスタ麺",
+        "トマト",
+        "えび",
+        "葉野菜"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_3_FOCUSED_MENUS_PROPOSAL.md",
+      "newRecipes": [
+        "えび野菜パスタ"
+      ]
+    },
+    {
+      "id": "3-6",
+      "chapter": 3,
+      "recipes": [
+        "プレーンハンバーグ",
+        "チーズハンバーグ",
+        "トマトパスタ",
+        "トマトポタージュ"
+      ],
+      "ingredients": [
+        "肉",
+        "チーズ",
+        "パスタ麺",
+        "トマト"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_3_FOCUSED_MENUS_PROPOSAL.md",
+      "newRecipes": []
+    },
+    {
+      "id": "4-1",
+      "chapter": 4,
+      "recipes": [
+        "基本オムライス",
+        "チーズオムライス"
+      ],
+      "ingredients": [
+        "米",
+        "トマト",
+        "卵",
+        "チーズ"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_2_4_SHARED_NOODLE_REVISION.md",
+      "newRecipes": [
+        "基本オムライス",
+        "チーズオムライス"
+      ]
+    },
+    {
+      "id": "4-2",
+      "chapter": 4,
+      "recipes": [
+        "トマトハンバーグ",
+        "トマトポタージュ"
+      ],
+      "ingredients": [
+        "肉",
+        "トマト"
+      ],
+      "count": 2,
+      "source": "docs/cooking-design/CHAPTERS_2_4_SHARED_NOODLE_REVISION.md",
+      "newRecipes": [
+        "トマトハンバーグ"
+      ]
+    },
+    {
+      "id": "4-3",
+      "chapter": 4,
+      "recipes": [
+        "肉ラーメン",
+        "肉玉ねぎオムレツ"
+      ],
+      "ingredients": [
+        "中華麺",
+        "肉",
+        "卵",
+        "玉ねぎ"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_2_4_SHARED_NOODLE_REVISION.md",
+      "newRecipes": [
+        "肉ラーメン",
+        "肉玉ねぎオムレツ"
+      ]
+    },
+    {
+      "id": "4-4",
+      "chapter": 4,
+      "recipes": [
+        "肉ラーメン",
+        "卵野菜ラーメン",
+        "肉焼きそば"
+      ],
+      "ingredients": [
+        "中華麺",
+        "肉",
+        "卵",
+        "葉野菜"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_2_4_SHARED_NOODLE_REVISION.md",
+      "newRecipes": [
+        "卵野菜ラーメン"
+      ]
+    },
+    {
+      "id": "4-5",
+      "chapter": 4,
+      "recipes": [
+        "魚のにぎり",
+        "魚のサラダ寿司"
+      ],
+      "ingredients": [
+        "米",
+        "魚",
+        "葉野菜"
+      ],
+      "count": 3,
+      "source": "docs/cooking-design/CHAPTERS_2_4_SHARED_NOODLE_REVISION.md",
+      "newRecipes": [
+        "魚のサラダ寿司"
+      ]
+    },
+    {
+      "id": "4-6",
+      "chapter": 4,
+      "recipes": [
+        "えび焼きそば",
+        "えび野菜パスタ"
+      ],
+      "ingredients": [
+        "中華麺",
+        "パスタ麺",
+        "えび",
+        "葉野菜"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_2_4_SHARED_NOODLE_REVISION.md",
+      "newRecipes": [
+        "えび焼きそば"
+      ]
+    },
+    {
+      "id": "5-1",
+      "chapter": 5,
+      "recipes": [
+        "フライドポテト"
+      ],
+      "ingredients": [
+        "じゃがいも"
+      ],
+      "count": 1,
+      "source": "docs/cooking-design/CHAPTER_5_FRIES_REPLACEMENT_PROPOSAL.md",
+      "newRecipes": [
+        "フライドポテト"
+      ]
+    },
+    {
+      "id": "5-2",
+      "chapter": 5,
+      "recipes": [
+        "フライドポテト",
+        "チーズポテト"
+      ],
+      "ingredients": [
+        "じゃがいも",
+        "チーズ"
+      ],
+      "count": 2,
+      "source": "docs/cooking-design/CHAPTER_5_FRIES_REPLACEMENT_PROPOSAL.md",
+      "newRecipes": [
+        "チーズポテト"
+      ]
+    },
+    {
+      "id": "5-3",
+      "chapter": 5,
+      "recipes": [
+        "とんかつ",
+        "えびフライ"
+      ],
+      "ingredients": [
+        "肉",
+        "えび",
+        "卵",
+        "パン粉"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_5_FRIES_REPLACEMENT_PROPOSAL.md",
+      "newRecipes": [
+        "とんかつ",
+        "えびフライ"
+      ]
+    },
+    {
+      "id": "5-4",
+      "chapter": 5,
+      "recipes": [
+        "えびフライ",
+        "エッグサラダ"
+      ],
+      "ingredients": [
+        "えび",
+        "卵",
+        "パン粉",
+        "葉野菜"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_5_FRIES_REPLACEMENT_PROPOSAL.md",
+      "newRecipes": [
+        "エッグサラダ"
+      ]
+    },
+    {
+      "id": "5-5",
+      "chapter": 5,
+      "recipes": [
+        "ミートチーズポテト",
+        "肉そぼろおにぎり"
+      ],
+      "ingredients": [
+        "じゃがいも",
+        "肉",
+        "チーズ",
+        "米"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_5_FRIES_REPLACEMENT_PROPOSAL.md",
+      "newRecipes": [
+        "ミートチーズポテト"
+      ]
+    },
+    {
+      "id": "5-6",
+      "chapter": 5,
+      "recipes": [
+        "フライドポテト",
+        "とんかつ"
+      ],
+      "ingredients": [
+        "じゃがいも",
+        "肉",
+        "卵",
+        "パン粉"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_5_FRIES_REPLACEMENT_PROPOSAL.md",
+      "newRecipes": []
+    },
+    {
+      "id": "6-1",
+      "chapter": 6,
+      "recipes": [
+        "牛丼",
+        "親子丼",
+        "肉玉ねぎオムレツ"
+      ],
+      "ingredients": [
+        "米",
+        "肉",
+        "玉ねぎ",
+        "卵"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_6_OKONOMI_VARIANTS_REVISION.md",
+      "newRecipes": [
+        "牛丼",
+        "親子丼"
+      ]
+    },
+    {
+      "id": "6-2",
+      "chapter": 6,
+      "recipes": [
+        "基本オムライス",
+        "ミートオムライス"
+      ],
+      "ingredients": [
+        "米",
+        "トマト",
+        "卵",
+        "肉"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_6_OKONOMI_VARIANTS_REVISION.md",
+      "newRecipes": [
+        "ミートオムライス"
+      ]
+    },
+    {
+      "id": "6-3",
+      "chapter": 6,
+      "recipes": [
+        "豚玉"
+      ],
+      "ingredients": [
+        "小麦粉",
+        "卵",
+        "葉野菜",
+        "肉"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_6_OKONOMI_VARIANTS_REVISION.md",
+      "newRecipes": [
+        "豚玉"
+      ]
+    },
+    {
+      "id": "6-4",
+      "chapter": 6,
+      "recipes": [
+        "えび玉",
+        "エッグサラダ"
+      ],
+      "ingredients": [
+        "小麦粉",
+        "卵",
+        "葉野菜",
+        "えび"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_6_OKONOMI_VARIANTS_REVISION.md",
+      "newRecipes": [
+        "えび玉"
+      ]
+    },
+    {
+      "id": "6-5",
+      "chapter": 6,
+      "recipes": [
+        "えび玉",
+        "えび天"
+      ],
+      "ingredients": [
+        "小麦粉",
+        "卵",
+        "葉野菜",
+        "えび"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_6_OKONOMI_VARIANTS_REVISION.md",
+      "newRecipes": [
+        "えび天"
+      ]
+    },
+    {
+      "id": "6-6",
+      "chapter": 6,
+      "recipes": [
+        "トマトパスタ",
+        "ミートソースパスタ"
+      ],
+      "ingredients": [
+        "パスタ麺",
+        "トマト",
+        "肉",
+        "玉ねぎ"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTER_6_OKONOMI_VARIANTS_REVISION.md",
+      "newRecipes": [
+        "ミートソースパスタ"
+      ]
+    },
+    {
+      "id": "7-1",
+      "chapter": 7,
+      "recipes": [
+        "ポテトグラタン",
+        "えびポテトグラタン"
+      ],
+      "ingredients": [
+        "じゃがいも",
+        "チーズ",
+        "えび"
+      ],
+      "count": 3,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "ポテトグラタン",
+        "えびポテトグラタン"
+      ]
+    },
+    {
+      "id": "7-2",
+      "chapter": 7,
+      "recipes": [
+        "ハンバーガー",
+        "チーズバーガー",
+        "肉チーズホットサンド"
+      ],
+      "ingredients": [
+        "バンズ",
+        "肉",
+        "チーズ",
+        "パンセット"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "ハンバーガー",
+        "チーズバーガー",
+        "肉チーズホットサンド"
+      ]
+    },
+    {
+      "id": "7-3",
+      "chapter": 7,
+      "recipes": [
+        "ポテトグラタン",
+        "ミートトマトグラタン"
+      ],
+      "ingredients": [
+        "じゃがいも",
+        "チーズ",
+        "肉",
+        "トマト"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "ミートトマトグラタン"
+      ]
+    },
+    {
+      "id": "7-4",
+      "chapter": 7,
+      "recipes": [
+        "ハンバーガー",
+        "野菜バーガー"
+      ],
+      "ingredients": [
+        "バンズ",
+        "肉",
+        "葉野菜",
+        "トマト"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "野菜バーガー"
+      ]
+    },
+    {
+      "id": "7-5",
+      "chapter": 7,
+      "recipes": [
+        "えび天",
+        "天丼"
+      ],
+      "ingredients": [
+        "えび",
+        "小麦粉",
+        "卵",
+        "米"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "天丼"
+      ]
+    },
+    {
+      "id": "7-6",
+      "chapter": 7,
+      "recipes": [
+        "広島風お好み焼き",
+        "エッグサラダ"
+      ],
+      "ingredients": [
+        "小麦粉",
+        "卵",
+        "葉野菜",
+        "中華麺"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "広島風お好み焼き"
+      ]
+    },
+    {
+      "id": "8-1",
+      "chapter": 8,
+      "recipes": [
+        "えびトマトカレー"
+      ],
+      "ingredients": [
+        "米",
+        "えび",
+        "トマト",
+        "スパイス"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "えびトマトカレー"
+      ]
+    },
+    {
+      "id": "8-2",
+      "chapter": 8,
+      "recipes": [
+        "海鮮ラーメン",
+        "えび焼きそば"
+      ],
+      "ingredients": [
+        "中華麺",
+        "魚",
+        "えび",
+        "葉野菜"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "海鮮ラーメン"
+      ]
+    },
+    {
+      "id": "8-3",
+      "chapter": 8,
+      "recipes": [
+        "マルゲリータ",
+        "えびピザ"
+      ],
+      "ingredients": [
+        "小麦粉",
+        "トマト",
+        "チーズ",
+        "えび"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "マルゲリータ",
+        "えびピザ"
+      ]
+    },
+    {
+      "id": "8-4",
+      "chapter": 8,
+      "recipes": [
+        "マルゲリータ",
+        "ミートピザ"
+      ],
+      "ingredients": [
+        "小麦粉",
+        "トマト",
+        "チーズ",
+        "肉"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "ミートピザ"
+      ]
+    },
+    {
+      "id": "8-5",
+      "chapter": 8,
+      "recipes": [
+        "肉餃子",
+        "えび餃子"
+      ],
+      "ingredients": [
+        "小麦粉",
+        "肉",
+        "葉野菜",
+        "えび"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "肉餃子",
+        "えび餃子"
+      ]
+    },
+    {
+      "id": "8-6",
+      "chapter": 8,
+      "recipes": [
+        "肉餃子",
+        "野菜餃子"
+      ],
+      "ingredients": [
+        "小麦粉",
+        "肉",
+        "葉野菜",
+        "玉ねぎ"
+      ],
+      "count": 4,
+      "source": "docs/cooking-design/CHAPTERS_7_8_FOUR_INGREDIENT_PLAN.md",
+      "newRecipes": [
+        "野菜餃子"
+      ]
+    }
+  ],
+  "families": [
+    {
+      "name": "サラダ",
+      "recipes": [
+        {
+          "name": "グリーンサラダ",
+          "role": "基本",
+          "ingredients": [
+            "葉野菜"
+          ],
+          "process": "葉野菜を切る→提供容器へ載せる。",
+          "stages": [
+            "1-1",
+            "1-2"
+          ],
+          "appearances": 2,
+          "first": "1-1"
+        },
+        {
+          "name": "トマトサラダ",
+          "role": "基本",
+          "ingredients": [
+            "葉野菜",
+            "トマト"
+          ],
+          "process": "葉野菜・トマトを切る→提供容器で重ねる。",
+          "stages": [
+            "1-2",
+            "1-5"
+          ],
+          "appearances": 2,
+          "first": "1-2"
+        },
+        {
+          "name": "エッグサラダ",
+          "role": "三品目",
+          "ingredients": [
+            "葉野菜",
+            "卵"
+          ],
+          "process": "葉野菜を切る＋卵を鍋で加熱→提供容器で合流。",
+          "stages": [
+            "5-4",
+            "6-4",
+            "7-6"
+          ],
+          "appearances": 3,
+          "first": "5-4"
+        }
+      ]
+    },
+    {
+      "name": "オムレツ",
+      "recipes": [
+        {
+          "name": "プレーンオムレツ",
+          "role": "基本",
+          "ingredients": [
+            "卵"
+          ],
+          "process": "卵をフライパンで焼く→提供。",
+          "stages": [
+            "1-3"
+          ],
+          "appearances": 1,
+          "first": "1-3"
+        },
+        {
+          "name": "チーズオムレツ",
+          "role": "基本",
+          "ingredients": [
+            "卵",
+            "チーズ"
+          ],
+          "process": "卵・チーズをフライパンへ入れて焼く→提供。チーズは仕上げ載せではなく加熱材料。",
+          "stages": [
+            "1-3"
+          ],
+          "appearances": 1,
+          "first": "1-3"
+        },
+        {
+          "name": "肉玉ねぎオムレツ",
+          "role": "三品目",
+          "ingredients": [
+            "卵",
+            "肉",
+            "玉ねぎ"
+          ],
+          "process": "肉・玉ねぎを切る→卵と同じフライパンで焼く→提供。",
+          "stages": [
+            "4-3",
+            "6-1"
+          ],
+          "appearances": 2,
+          "first": "4-3"
+        }
+      ]
+    },
+    {
+      "name": "焼きそば",
+      "recipes": [
+        {
+          "name": "野菜焼きそば",
+          "role": "基本",
+          "ingredients": [
+            "中華麺",
+            "葉野菜",
+            "玉ねぎ"
+          ],
+          "process": "葉野菜・玉ねぎを切る→中華麺と同じフライパンで一括加熱→提供。麺の下茹でなし。",
+          "stages": [
+            "1-4"
+          ],
+          "appearances": 1,
+          "first": "1-4"
+        },
+        {
+          "name": "肉焼きそば",
+          "role": "基本",
+          "ingredients": [
+            "中華麺",
+            "肉",
+            "葉野菜"
+          ],
+          "process": "肉・葉野菜を切る→中華麺と同じフライパンで一括加熱→提供。",
+          "stages": [
+            "1-6",
+            "4-4"
+          ],
+          "appearances": 2,
+          "first": "1-6"
+        },
+        {
+          "name": "えび焼きそば",
+          "role": "三品目",
+          "ingredients": [
+            "中華麺",
+            "えび",
+            "葉野菜"
+          ],
+          "process": "葉野菜を切る→えび・中華麺と同じフライパンで一括加熱→提供。",
+          "stages": [
+            "4-6",
+            "8-2"
+          ],
+          "appearances": 2,
+          "first": "4-6"
+        }
+      ]
+    },
+    {
+      "name": "スープ",
+      "recipes": [
+        {
+          "name": "オニオンスープ",
+          "role": "基本",
+          "ingredients": [
+            "玉ねぎ"
+          ],
+          "process": "玉ねぎを切る→鍋で煮る→提供。",
+          "stages": [
+            "1-5"
+          ],
+          "appearances": 1,
+          "first": "1-5"
+        },
+        {
+          "name": "肉じゃがいもスープ",
+          "role": "基本",
+          "ingredients": [
+            "肉",
+            "じゃがいも"
+          ],
+          "process": "肉・じゃがいもを切る→同じ鍋で煮る→提供。",
+          "stages": [
+            "1-6"
+          ],
+          "appearances": 1,
+          "first": "1-6"
+        },
+        {
+          "name": "トマトポタージュ",
+          "role": "三品目",
+          "ingredients": [
+            "トマト"
+          ],
+          "process": "トマトをミキサー加工→ジャーから鍋へ移して煮る→提供。",
+          "stages": [
+            "3-2",
+            "3-6",
+            "4-2"
+          ],
+          "appearances": 3,
+          "first": "3-2"
+        }
+      ]
+    },
+    {
+      "name": "寿司",
+      "recipes": [
+        {
+          "name": "魚のにぎり",
+          "role": "基本",
+          "ingredients": [
+            "米",
+            "魚"
+          ],
+          "process": "米を鍋で炊く＋魚を切る→提供容器で合流し自動形成。",
+          "stages": [
+            "2-1",
+            "2-3",
+            "4-5"
+          ],
+          "appearances": 3,
+          "first": "2-1"
+        },
+        {
+          "name": "えびのにぎり",
+          "role": "基本",
+          "ingredients": [
+            "米",
+            "えび"
+          ],
+          "process": "米を鍋で炊く＋えびを別鍋で加熱→提供容器で合流し自動形成。",
+          "stages": [
+            "2-3"
+          ],
+          "appearances": 1,
+          "first": "2-3"
+        },
+        {
+          "name": "魚のサラダ寿司",
+          "role": "三品目",
+          "ingredients": [
+            "米",
+            "魚",
+            "葉野菜"
+          ],
+          "process": "米を鍋で炊く＋魚・葉野菜を切る→提供容器で合流し自動形成。",
+          "stages": [
+            "4-5"
+          ],
+          "appearances": 1,
+          "first": "4-5"
+        }
+      ]
+    },
+    {
+      "name": "おにぎり",
+      "recipes": [
+        {
+          "name": "焼肉おにぎり",
+          "role": "基本",
+          "ingredients": [
+            "米",
+            "肉"
+          ],
+          "process": "米を鍋で炊く＋肉を切ってフライパンで焼く→提供容器で合流し自動形成。",
+          "stages": [
+            "2-2",
+            "2-6"
+          ],
+          "appearances": 2,
+          "first": "2-2"
+        },
+        {
+          "name": "チーズ焼肉おにぎり",
+          "role": "基本",
+          "ingredients": [
+            "米",
+            "肉",
+            "チーズ"
+          ],
+          "process": "米を炊く＋切った肉をフライパンで焼く→提供容器でチーズも重ねて自動形成。",
+          "stages": [
+            "2-2"
+          ],
+          "appearances": 1,
+          "first": "2-2"
+        },
+        {
+          "name": "肉そぼろおにぎり",
+          "role": "三品目",
+          "ingredients": [
+            "米",
+            "肉"
+          ],
+          "process": "米を炊く＋肉をミキサーでひき肉化してフライパンで加熱→提供容器で合流し自動形成。",
+          "stages": [
+            "3-3",
+            "5-5"
+          ],
+          "appearances": 2,
+          "first": "3-3"
+        }
+      ]
+    },
+    {
+      "name": "ホットサンド",
+      "recipes": [
+        {
+          "name": "チーズホットサンド",
+          "role": "基本",
+          "ingredients": [
+            "パンセット",
+            "チーズ"
+          ],
+          "process": "パンセット・チーズを重ね未焼成サンドへ自動組立→フライパンで全体を焼く→提供。",
+          "stages": [
+            "2-4"
+          ],
+          "appearances": 1,
+          "first": "2-4"
+        },
+        {
+          "name": "チーズトマトホットサンド",
+          "role": "基本",
+          "ingredients": [
+            "パンセット",
+            "チーズ",
+            "トマト"
+          ],
+          "process": "トマトを切る→パンセット・チーズと未焼成サンドへ組立→フライパンで全体を焼く→提供。",
+          "stages": [
+            "2-4"
+          ],
+          "appearances": 1,
+          "first": "2-4"
+        },
+        {
+          "name": "肉チーズホットサンド",
+          "role": "三品目",
+          "ingredients": [
+            "パンセット",
+            "肉",
+            "チーズ"
+          ],
+          "process": "肉を切る→パンセット・チーズと未焼成サンドへ組立→フライパンで全体を焼く→提供。肉のミキサー加工・単独焼成なし。",
+          "stages": [
+            "7-2"
+          ],
+          "appearances": 1,
+          "first": "7-2"
+        }
+      ]
+    },
+    {
+      "name": "カレーライス",
+      "recipes": [
+        {
+          "name": "じゃがいもカレー",
+          "role": "基本",
+          "ingredients": [
+            "米",
+            "じゃがいも",
+            "玉ねぎ",
+            "スパイス"
+          ],
+          "process": "米を鍋で炊く＋じゃがいも・玉ねぎを切りスパイスと別鍋で煮る→提供容器で合流。",
+          "stages": [
+            "2-5"
+          ],
+          "appearances": 1,
+          "first": "2-5"
+        },
+        {
+          "name": "肉カレー",
+          "role": "基本",
+          "ingredients": [
+            "米",
+            "肉",
+            "玉ねぎ",
+            "スパイス"
+          ],
+          "process": "米を鍋で炊く＋肉・玉ねぎを切りスパイスと別鍋で煮る→提供容器で合流。",
+          "stages": [
+            "2-6"
+          ],
+          "appearances": 1,
+          "first": "2-6"
+        },
+        {
+          "name": "えびトマトカレー",
+          "role": "三品目",
+          "ingredients": [
+            "米",
+            "えび",
+            "トマト",
+            "スパイス"
+          ],
+          "process": "米を鍋で炊く＋トマトを切りえび・スパイスと別鍋で煮る→提供容器で合流。",
+          "stages": [
+            "8-1"
+          ],
+          "appearances": 1,
+          "first": "8-1"
+        }
+      ]
+    },
+    {
+      "name": "ハンバーグ",
+      "recipes": [
+        {
+          "name": "プレーンハンバーグ",
+          "role": "基本",
+          "ingredients": [
+            "肉"
+          ],
+          "process": "肉をミキサーでひき肉化→フライパンへ移す際に自動形成→焼いて提供。",
+          "stages": [
+            "3-1",
+            "3-2",
+            "3-3",
+            "3-6"
+          ],
+          "appearances": 4,
+          "first": "3-1"
+        },
+        {
+          "name": "チーズハンバーグ",
+          "role": "基本",
+          "ingredients": [
+            "肉",
+            "チーズ"
+          ],
+          "process": "肉をミキサー加工→フライパンで自動形成して焼く→提供容器でチーズを重ねる。",
+          "stages": [
+            "3-2",
+            "3-3",
+            "3-6"
+          ],
+          "appearances": 3,
+          "first": "3-2"
+        },
+        {
+          "name": "トマトハンバーグ",
+          "role": "三品目",
+          "ingredients": [
+            "肉",
+            "トマト"
+          ],
+          "process": "肉をミキサー加工＋トマトを切る→熱源外のフライパンで揃え、自動形成した肉とトマトを一緒に煮込み加熱→提供。",
+          "stages": [
+            "4-2"
+          ],
+          "appearances": 1,
+          "first": "4-2"
+        }
+      ]
+    },
+    {
+      "name": "パスタ",
+      "recipes": [
+        {
+          "name": "トマトパスタ",
+          "role": "基本",
+          "ingredients": [
+            "パスタ麺",
+            "トマト"
+          ],
+          "process": "麺を鍋で茹でる＋トマトをミキサー加工しフライパンで加熱→提供容器で合流。",
+          "stages": [
+            "3-4",
+            "3-5",
+            "3-6",
+            "6-6"
+          ],
+          "appearances": 4,
+          "first": "3-4"
+        },
+        {
+          "name": "えび野菜パスタ",
+          "role": "基本",
+          "ingredients": [
+            "パスタ麺",
+            "えび",
+            "葉野菜"
+          ],
+          "process": "麺を鍋で茹でる＋葉野菜を切りえびとフライパンで加熱→提供容器で合流。",
+          "stages": [
+            "3-5",
+            "4-6"
+          ],
+          "appearances": 2,
+          "first": "3-5"
+        },
+        {
+          "name": "ミートソースパスタ",
+          "role": "三品目",
+          "ingredients": [
+            "パスタ麺",
+            "肉",
+            "トマト",
+            "玉ねぎ"
+          ],
+          "process": "麺を茹でる＋肉をミキサー加工し熱源外のフライパンへ→トマトを別にミキサー加工し、切った玉ねぎと同じフライパンへ揃える→加熱→麺と提供容器で合流。ミキサーは一食で二回。",
+          "stages": [
+            "6-6"
+          ],
+          "appearances": 1,
+          "first": "6-6"
+        }
+      ]
+    },
+    {
+      "name": "オムライス",
+      "recipes": [
+        {
+          "name": "基本オムライス",
+          "role": "基本",
+          "ingredients": [
+            "米",
+            "トマト",
+            "卵"
+          ],
+          "process": "トマトを切って米と同じ鍋で炊く＋卵をフライパンで焼く→提供容器でトマトライスと卵を合流し自動形成。",
+          "stages": [
+            "4-1",
+            "6-2"
+          ],
+          "appearances": 2,
+          "first": "4-1"
+        },
+        {
+          "name": "チーズオムライス",
+          "role": "基本",
+          "ingredients": [
+            "米",
+            "トマト",
+            "卵",
+            "チーズ"
+          ],
+          "process": "切ったトマトと米を同じ鍋で炊く＋卵をフライパンで焼く→提供容器でチーズも加えて合流。",
+          "stages": [
+            "4-1"
+          ],
+          "appearances": 1,
+          "first": "4-1"
+        },
+        {
+          "name": "ミートオムライス",
+          "role": "三品目",
+          "ingredients": [
+            "米",
+            "トマト",
+            "卵",
+            "肉"
+          ],
+          "process": "切ったトマトと米を同じ鍋で炊く＋肉を切り卵とフライパンで焼く→提供容器で合流。米の炒め直しなし。",
+          "stages": [
+            "6-2"
+          ],
+          "appearances": 1,
+          "first": "6-2"
+        }
+      ]
+    },
+    {
+      "name": "ラーメン",
+      "recipes": [
+        {
+          "name": "肉ラーメン",
+          "role": "基本",
+          "ingredients": [
+            "中華麺",
+            "肉"
+          ],
+          "process": "中華麺を鍋で茹でる＋肉を切りフライパンで具入りスープとして煮る→提供容器で合流。玉ねぎなし。",
+          "stages": [
+            "4-3",
+            "4-4"
+          ],
+          "appearances": 2,
+          "first": "4-3"
+        },
+        {
+          "name": "卵野菜ラーメン",
+          "role": "基本",
+          "ingredients": [
+            "中華麺",
+            "卵",
+            "葉野菜"
+          ],
+          "process": "中華麺を鍋で茹でる＋葉野菜を切り卵とフライパンで煮る→提供容器で合流。",
+          "stages": [
+            "4-4"
+          ],
+          "appearances": 1,
+          "first": "4-4"
+        },
+        {
+          "name": "海鮮ラーメン",
+          "role": "三品目",
+          "ingredients": [
+            "中華麺",
+            "魚",
+            "えび",
+            "葉野菜"
+          ],
+          "process": "中華麺を鍋で茹でる＋魚・葉野菜を切りえびとフライパンで煮る→提供容器で合流。",
+          "stages": [
+            "8-2"
+          ],
+          "appearances": 1,
+          "first": "8-2"
+        }
+      ]
+    },
+    {
+      "name": "フライドポテト",
+      "recipes": [
+        {
+          "name": "フライドポテト",
+          "role": "基本",
+          "ingredients": [
+            "じゃがいも"
+          ],
+          "process": "じゃがいもを棒状に切る→フライヤーで揚げる→かごを上げて提供。",
+          "stages": [
+            "5-1",
+            "5-2",
+            "5-6"
+          ],
+          "appearances": 3,
+          "first": "5-1"
+        },
+        {
+          "name": "チーズポテト",
+          "role": "基本",
+          "ingredients": [
+            "じゃがいも",
+            "チーズ"
+          ],
+          "process": "じゃがいもを切って揚げる→かごを上げ、提供容器でチーズを重ねる。",
+          "stages": [
+            "5-2"
+          ],
+          "appearances": 1,
+          "first": "5-2"
+        },
+        {
+          "name": "ミートチーズポテト",
+          "role": "三品目",
+          "ingredients": [
+            "じゃがいも",
+            "肉",
+            "チーズ"
+          ],
+          "process": "じゃがいもを切って揚げる＋肉をミキサー加工しフライパンで加熱→提供容器でポテト・肉・チーズを合流。",
+          "stages": [
+            "5-5"
+          ],
+          "appearances": 1,
+          "first": "5-5"
+        }
+      ]
+    },
+    {
+      "name": "揚げ物",
+      "recipes": [
+        {
+          "name": "とんかつ",
+          "role": "基本",
+          "ingredients": [
+            "肉",
+            "卵",
+            "パン粉"
+          ],
+          "process": "切らない肉に卵・パン粉を重ね自動衣付け→フライヤーで揚げる→かごを上げて提供。",
+          "stages": [
+            "5-3",
+            "5-6"
+          ],
+          "appearances": 2,
+          "first": "5-3"
+        },
+        {
+          "name": "えびフライ",
+          "role": "基本",
+          "ingredients": [
+            "えび",
+            "卵",
+            "パン粉"
+          ],
+          "process": "切らないえびに卵・パン粉を重ね自動衣付け→フライヤーで揚げる→かごを上げて提供。",
+          "stages": [
+            "5-3",
+            "5-4"
+          ],
+          "appearances": 2,
+          "first": "5-3"
+        },
+        {
+          "name": "えび天",
+          "role": "三品目",
+          "ingredients": [
+            "えび",
+            "小麦粉",
+            "卵"
+          ],
+          "process": "小麦粉・卵をミキサーで混合→えびへ衣を重ねる→フライヤーで揚げる→かごを上げて提供。",
+          "stages": [
+            "6-5",
+            "7-5"
+          ],
+          "appearances": 2,
+          "first": "6-5"
+        }
+      ]
+    },
+    {
+      "name": "丼物",
+      "recipes": [
+        {
+          "name": "牛丼",
+          "role": "基本",
+          "ingredients": [
+            "米",
+            "肉",
+            "玉ねぎ"
+          ],
+          "process": "米を鍋で炊く＋肉・玉ねぎを切りフライパンで煮る→提供容器で合流。",
+          "stages": [
+            "6-1"
+          ],
+          "appearances": 1,
+          "first": "6-1"
+        },
+        {
+          "name": "親子丼",
+          "role": "基本",
+          "ingredients": [
+            "米",
+            "肉",
+            "玉ねぎ",
+            "卵"
+          ],
+          "process": "米を鍋で炊く＋肉・玉ねぎを切り卵とフライパンで煮る→提供容器で合流。",
+          "stages": [
+            "6-1"
+          ],
+          "appearances": 1,
+          "first": "6-1"
+        },
+        {
+          "name": "天丼",
+          "role": "三品目",
+          "ingredients": [
+            "米",
+            "えび",
+            "小麦粉",
+            "卵"
+          ],
+          "process": "米を炊く＋小麦粉・卵をミキサー混合してえびへ衣付け→フライヤーで揚げる→提供容器でご飯と合流。",
+          "stages": [
+            "7-5"
+          ],
+          "appearances": 1,
+          "first": "7-5"
+        }
+      ]
+    },
+    {
+      "name": "お好み焼き",
+      "recipes": [
+        {
+          "name": "豚玉",
+          "role": "基本",
+          "ingredients": [
+            "小麦粉",
+            "卵",
+            "葉野菜",
+            "肉"
+          ],
+          "process": "小麦粉・卵をミキサー混合＋葉野菜・肉を切る→フライパンで材料を揃えて焼く→提供。",
+          "stages": [
+            "6-3"
+          ],
+          "appearances": 1,
+          "first": "6-3"
+        },
+        {
+          "name": "えび玉",
+          "role": "基本",
+          "ingredients": [
+            "小麦粉",
+            "卵",
+            "葉野菜",
+            "えび"
+          ],
+          "process": "小麦粉・卵をミキサー混合＋葉野菜を切る→えびとフライパンで揃えて焼く→提供。",
+          "stages": [
+            "6-4",
+            "6-5"
+          ],
+          "appearances": 2,
+          "first": "6-4"
+        },
+        {
+          "name": "広島風お好み焼き",
+          "role": "三品目",
+          "ingredients": [
+            "小麦粉",
+            "卵",
+            "葉野菜",
+            "中華麺"
+          ],
+          "process": "小麦粉をミキサーで基本生地へ＋葉野菜を切る→熱源外のフライパンで生地・葉野菜・中華麺・卵を揃え層を自動形成→加熱して提供。肉なし、卵は生地へ混ぜない。",
+          "stages": [
+            "7-6"
+          ],
+          "appearances": 1,
+          "first": "7-6"
+        }
+      ]
+    },
+    {
+      "name": "グラタン",
+      "recipes": [
+        {
+          "name": "ポテトグラタン",
+          "role": "基本",
+          "ingredients": [
+            "じゃがいも",
+            "チーズ"
+          ],
+          "process": "じゃがいもを切る→チーズとトレーへ載せる→オーブンで焼く→トレーを引き上げて提供。",
+          "stages": [
+            "7-1",
+            "7-3"
+          ],
+          "appearances": 2,
+          "first": "7-1"
+        },
+        {
+          "name": "えびポテトグラタン",
+          "role": "基本",
+          "ingredients": [
+            "じゃがいも",
+            "チーズ",
+            "えび"
+          ],
+          "process": "じゃがいもを切る→チーズ・えびとトレーへ載せる→オーブンで焼く→引き上げて提供。",
+          "stages": [
+            "7-1"
+          ],
+          "appearances": 1,
+          "first": "7-1"
+        },
+        {
+          "name": "ミートトマトグラタン",
+          "role": "三品目",
+          "ingredients": [
+            "肉",
+            "トマト",
+            "チーズ"
+          ],
+          "process": "肉・トマトを切る→チーズとトレーへ載せる→オーブンで焼く→引き上げて提供。",
+          "stages": [
+            "7-3"
+          ],
+          "appearances": 1,
+          "first": "7-3"
+        }
+      ]
+    },
+    {
+      "name": "ハンバーガー",
+      "recipes": [
+        {
+          "name": "ハンバーガー",
+          "role": "基本",
+          "ingredients": [
+            "バンズ",
+            "肉"
+          ],
+          "process": "肉をミキサー加工→フライパンでパティへ自動形成し焼く→提供容器でバンズと組立。",
+          "stages": [
+            "7-2",
+            "7-4"
+          ],
+          "appearances": 2,
+          "first": "7-2"
+        },
+        {
+          "name": "チーズバーガー",
+          "role": "基本",
+          "ingredients": [
+            "バンズ",
+            "肉",
+            "チーズ"
+          ],
+          "process": "肉をミキサー加工しパティを焼く→提供容器でバンズ・チーズと組立。",
+          "stages": [
+            "7-2"
+          ],
+          "appearances": 1,
+          "first": "7-2"
+        },
+        {
+          "name": "野菜バーガー",
+          "role": "三品目",
+          "ingredients": [
+            "バンズ",
+            "肉",
+            "葉野菜",
+            "トマト"
+          ],
+          "process": "肉をミキサー加工しパティを焼く＋葉野菜・トマトを切る→提供容器でバンズと組立。肉入り。",
+          "stages": [
+            "7-4"
+          ],
+          "appearances": 1,
+          "first": "7-4"
+        }
+      ]
+    },
+    {
+      "name": "ピザ",
+      "recipes": [
+        {
+          "name": "マルゲリータ",
+          "role": "基本",
+          "ingredients": [
+            "小麦粉",
+            "トマト",
+            "チーズ"
+          ],
+          "process": "小麦粉をミキサーで基本生地へ→トレーへ移す→トマトを別にミキサー加工し生地へ重ねる→チーズを加えオーブンで焼く→引き上げて提供。",
+          "stages": [
+            "8-3",
+            "8-4"
+          ],
+          "appearances": 2,
+          "first": "8-3"
+        },
+        {
+          "name": "えびピザ",
+          "role": "基本",
+          "ingredients": [
+            "小麦粉",
+            "トマト",
+            "チーズ",
+            "えび"
+          ],
+          "process": "小麦粉・トマトを別々にミキサー加工→トレーで生地・トマト加工物・チーズ・えびを揃える→オーブンで焼いて引き上げ、提供。",
+          "stages": [
+            "8-3"
+          ],
+          "appearances": 1,
+          "first": "8-3"
+        },
+        {
+          "name": "ミートピザ",
+          "role": "三品目",
+          "ingredients": [
+            "小麦粉",
+            "トマト",
+            "チーズ",
+            "肉"
+          ],
+          "process": "小麦粉・トマトを別々にミキサー加工＋肉を切る→チーズとトレーで揃える→オーブンで焼いて引き上げ、提供。",
+          "stages": [
+            "8-4"
+          ],
+          "appearances": 1,
+          "first": "8-4"
+        }
+      ]
+    },
+    {
+      "name": "餃子",
+      "recipes": [
+        {
+          "name": "肉餃子",
+          "role": "基本",
+          "ingredients": [
+            "小麦粉",
+            "肉",
+            "葉野菜"
+          ],
+          "process": "小麦粉をミキサーで基本生地へ→熱源外のフライパンへ→肉を別にミキサー加工＋葉野菜を切る→重ねて未加熱餃子へ自動形成→加熱して提供。",
+          "stages": [
+            "8-5",
+            "8-6"
+          ],
+          "appearances": 2,
+          "first": "8-5"
+        },
+        {
+          "name": "えび餃子",
+          "role": "基本",
+          "ingredients": [
+            "小麦粉",
+            "えび",
+            "葉野菜"
+          ],
+          "process": "小麦粉をミキサーで基本生地へ＋えび・葉野菜を切る→熱源外のフライパンで揃えて自動形成→加熱して提供。",
+          "stages": [
+            "8-5"
+          ],
+          "appearances": 1,
+          "first": "8-5"
+        },
+        {
+          "name": "野菜餃子",
+          "role": "三品目",
+          "ingredients": [
+            "小麦粉",
+            "葉野菜",
+            "玉ねぎ"
+          ],
+          "process": "小麦粉をミキサーで基本生地へ＋葉野菜・玉ねぎを切る→熱源外のフライパンで揃えて自動形成→加熱して提供。",
+          "stages": [
+            "8-6"
+          ],
+          "appearances": 1,
+          "first": "8-6"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "stages": 48,
+    "families": 20,
+    "recipes": 60,
+    "appearances": 94,
+    "histogram": {
+      "1": 35,
+      "2": 18,
+      "3": 5,
+      "4": 2
+    },
+    "thirdHistogram": {
+      "1": 14,
+      "2": 4,
+      "3": 2
+    },
+    "noNew": [
+      "3-6",
+      "5-6"
+    ],
+    "rawIngredients": [
+      "葉野菜",
+      "トマト",
+      "卵",
+      "チーズ",
+      "肉",
+      "玉ねぎ",
+      "中華麺",
+      "えび",
+      "じゃがいも",
+      "米",
+      "魚",
+      "パンセット",
+      "スパイス",
+      "パスタ麺",
+      "パン粉",
+      "小麦粉",
+      "バンズ"
+    ],
+    "chapters": [
+      {
+        "chapter": 1,
+        "newRecipes": 8,
+        "appearances": 10
+      },
+      {
+        "chapter": 2,
+        "newRecipes": 8,
+        "appearances": 10
+      },
+      {
+        "chapter": 3,
+        "newRecipes": 6,
+        "appearances": 14
+      },
+      {
+        "chapter": 4,
+        "newRecipes": 8,
+        "appearances": 13
+      },
+      {
+        "chapter": 5,
+        "newRecipes": 6,
+        "appearances": 11
+      },
+      {
+        "chapter": 6,
+        "newRecipes": 7,
+        "appearances": 12
+      },
+      {
+        "chapter": 7,
+        "newRecipes": 9,
+        "appearances": 13
+      },
+      {
+        "chapter": 8,
+        "newRecipes": 8,
+        "appearances": 11
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "ingredients": [
+    { "id": "ingredient.lettuce", "displayNameKey": "ingredient_lettuce" },
+    { "id": "ingredient.carrot", "displayNameKey": "ingredient_carrot" },
+    { "id": "ingredient.onion", "displayNameKey": "ingredient_onion" }
+  ],
+  "processes": [
+    { "id": "process.chop", "displayNameKey": "process_chop" }
+  ],
+  "recipes": [
+    {
+      "id": "recipe.lettuce_salad",
+      "displayNameKey": "recipe_lettuce_salad",
+      "requiredComponents": ["ingredient.lettuce:chopped"],
+      "requiresHeating": false
+    },
+    {
+      "id": "recipe.vegetable_soup",
+      "displayNameKey": "recipe_vegetable_soup",
+      "requiredComponents": ["ingredient.carrot:chopped", "ingredient.onion:chopped"],
+      "requiresHeating": true
+    }
+  ],
+  "containers": [
+    { "id": "container.delivery.common", "displayNameKey": "container_delivery_common" }
+  ],
+  "cookware": [
+    { "id": "cookware.pot.common", "displayNameKey": "cookware_pot_common", "throwable": false }
+  ],
+  "orders": [
+    {
+      "id": "order.lettuce_salad",
+      "recipeId": "recipe.lettuce_salad",
+      "durationSeconds": 45
+    },
+    {
+      "id": "order.vegetable_soup",
+      "recipeId": "recipe.vegetable_soup",
+      "durationSeconds": 105
+    },
+    {
+      "id": "order.tutorial.throw_delivery_soup",
+      "recipeId": "recipe.vegetable_soup",
+      "durationSeconds": 150
+    }
+  ],
+  "stages": [
+    {
+      "id": "stage.tutorial.1-1",
+      "displayNameKey": "stage_tutorial_1_1",
+      "durationSeconds": 75,
+      "orderDurationSeconds": 45,
+      "starThresholds": [100, 150, 180]
+    },
+    {
+      "id": "stage.tutorial.1-2",
+      "displayNameKey": "stage_tutorial_1_2",
+      "durationSeconds": 150,
+      "orderDurationSeconds": 105,
+      "starThresholds": [110, 170, 230]
+    },
+    {
+      "id": "stage.tutorial.1-3",
+      "displayNameKey": "stage_tutorial_1_3",
+      "durationSeconds": 210,
+      "orderDurationSeconds": 150,
+      "starThresholds": [140, 230, 320]
+    }
+  ]
+}

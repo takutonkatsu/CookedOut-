@@ -1,0 +1,159 @@
+{
+  "source_note": "Team17 official update descriptions, Team17-provided leaderboard previews, and gameplay video review. Stage-specific tags marked medium confidence are visual classifications rather than official names.",
+  "levels": [
+    {
+      "pack": "The Ever Peckish Rises",
+      "level": "1-1",
+      "theme": "Pirate ship",
+      "gimmicks": ["guillotine chopping station", "compact moving-ship layout"],
+      "confidence": "high"
+    },
+    {
+      "pack": "The Ever Peckish Rises",
+      "level": "1-2",
+      "theme": "Pirate ship",
+      "gimmicks": ["guillotine chopping station", "central bottleneck"],
+      "confidence": "high"
+    },
+    {
+      "pack": "The Ever Peckish Rises",
+      "level": "1-3",
+      "theme": "Pirate ship",
+      "gimmicks": ["guillotine chopping station", "portal", "long transfer counter"],
+      "confidence": "medium"
+    },
+    {
+      "pack": "The Ever Peckish Rises",
+      "level": "2-1",
+      "theme": "Lava temple",
+      "gimmicks": ["portal", "lava-separated work zones"],
+      "confidence": "high"
+    },
+    {
+      "pack": "The Ever Peckish Rises",
+      "level": "2-2",
+      "theme": "Lava temple",
+      "gimmicks": ["cannon transport", "lava-surrounded arena", "central bottleneck"],
+      "confidence": "medium"
+    },
+    {
+      "pack": "The Ever Peckish Rises",
+      "level": "2-3",
+      "theme": "Pirate ship",
+      "gimmicks": ["cannon transport", "split upper work zones", "central gap"],
+      "confidence": "medium"
+    },
+    {
+      "pack": "The Ever Peckish Rises",
+      "level": "2-4",
+      "theme": "Broken rafts at sea",
+      "gimmicks": ["multiple separated rafts", "portal", "cannon transport"],
+      "confidence": "medium"
+    },
+    {
+      "pack": "Birthday Party",
+      "level": "1-1",
+      "theme": "Birthday hall",
+      "gimmicks": ["Switcheroo cards", "forced chef teleport", "portals"],
+      "confidence": "high"
+    },
+    {
+      "pack": "Birthday Party",
+      "level": "1-2",
+      "theme": "Birthday garden",
+      "gimmicks": ["Switcheroo cards", "forced chef teleport", "central work island"],
+      "confidence": "high"
+    },
+    {
+      "pack": "Birthday Party",
+      "level": "1-3",
+      "theme": "Birthday hall",
+      "gimmicks": ["Switcheroo cards", "forced chef teleport", "long parallel counters"],
+      "confidence": "high"
+    },
+    {
+      "pack": "Birthday Party",
+      "level": "1-4",
+      "theme": "Birthday garden",
+      "gimmicks": ["Switcheroo cards", "forced chef teleport", "open central arena"],
+      "confidence": "high"
+    },
+    {
+      "pack": "Birthday Party",
+      "level": "1-5",
+      "theme": "Birthday hall",
+      "gimmicks": ["Switcheroo cards", "forced chef teleport", "maze-like counters"],
+      "confidence": "high"
+    },
+    {
+      "pack": "World Food Festival",
+      "level": "1-1",
+      "theme": "Baked Bazaar",
+      "gimmicks": ["pedestrian crowd", "delivery bag request", "open market paths"],
+      "confidence": "high"
+    },
+    {
+      "pack": "World Food Festival",
+      "level": "1-2",
+      "theme": "Baked Bazaar",
+      "gimmicks": ["central recessed work zone", "narrow circulation loop"],
+      "confidence": "medium"
+    },
+    {
+      "pack": "World Food Festival",
+      "level": "1-3",
+      "theme": "Baked Bazaar docks",
+      "gimmicks": ["water-separated work zones", "narrow dock bridges", "delivery bag request"],
+      "confidence": "medium"
+    },
+    {
+      "pack": "World Food Festival",
+      "level": "2-1",
+      "theme": "Metro Mash",
+      "gimmicks": ["traffic lanes", "split kitchens across road", "pedestrian crossings"],
+      "confidence": "high"
+    },
+    {
+      "pack": "World Food Festival",
+      "level": "2-2",
+      "theme": "Metro Mash",
+      "gimmicks": ["divided prep and cook lanes", "central moving-counter candidate"],
+      "confidence": "medium"
+    },
+    {
+      "pack": "World Food Festival",
+      "level": "2-3",
+      "theme": "Metro Mash",
+      "gimmicks": ["water-separated work zones", "narrow bridges", "delivery bag request"],
+      "confidence": "medium"
+    },
+    {
+      "pack": "World Food Festival",
+      "level": "3-1",
+      "theme": "Pepper Plaza",
+      "gimmicks": ["moving pedestrian column", "split left-right kitchens", "delivery bag request"],
+      "confidence": "high"
+    },
+    {
+      "pack": "World Food Festival",
+      "level": "3-2",
+      "theme": "Pepper Plaza",
+      "gimmicks": ["open flame hazards", "central restricted work zone", "delivery bag request"],
+      "confidence": "high"
+    },
+    {
+      "pack": "World Food Festival",
+      "level": "3-3",
+      "theme": "Pepper Plaza",
+      "gimmicks": ["moving crowd lanes", "split work zones", "tight transfer counters"],
+      "confidence": "medium"
+    },
+    {
+      "pack": "World Food Festival",
+      "level": "3-4",
+      "theme": "Pepper Plaza",
+      "gimmicks": ["water-separated inner ring", "restricted crossings", "delivery bag request"],
+      "confidence": "high"
+    }
+  ]
+}
